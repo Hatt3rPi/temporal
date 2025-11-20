@@ -1,13 +1,24 @@
 # ACTUALIZACIONES RECOMENDADAS - FORMULARIO START-UP CHILE 2026
 # La Cuentería
 
+Este documento lista los cambios recomendados al formulario original, indicando **exactamente qué pregunta** del formulario debe modificarse.
+
 ---
 
-## SECCIONES A ACTUALIZAR
+## CAMBIOS RECOMENDADOS
 
-### 1. OBJETIVO PRINCIPAL DEL PROYECTO ✅ CAMBIO CRÍTICO
+---
 
-**VERSIÓN ORIGINAL:**
+## CAMBIO #1 - ✅ CRÍTICO
+
+### PREGUNTA DEL FORMULARIO:
+**"Objetivo principal del proyecto"**
+*En términos generales, describe lo que esperas lograr durante el programa.*
+
+### UBICACIÓN EN EL FORMULARIO:
+Sección: **Información de la Startup**
+
+### VERSIÓN ORIGINAL:
 ```
 Nuestro objetivo principal es validar y escalar nuestro modelo de negocio en Chile mientras refinamos nuestro producto con retroalimentación real de usuarios. Durante el programa buscamos: (1) Lograr product-market fit mediante descubrimiento y validación estructurada con 100+ familias, (2) Desarrollar alianzas estratégicas con instituciones educativas y terapeutas infantiles, (3) Establecer un modelo de ingresos sostenible con clientes recurrentes, (4) Construir una red sólida dentro del ecosistema startup de Chile para apoyar crecimiento a largo plazo, y (5) Posicionar a La Cuentería como la plataforma líder de herramientas personalizadas de educación emocional en América Latina.
 ```
@@ -17,18 +28,25 @@ Nuestro objetivo principal es validar y escalar nuestro modelo de negocio en Chi
 Nuestro objetivo principal es validar nuestra propuesta de valor y establecer las bases para un crecimiento sostenible. Durante los 4 meses del programa buscamos: (1) Validar tracción real con 50-100 familias pagadoras mediante pruebas estructuradas y feedback cualitativo sobre valor percibido y disposición a pagar, (2) Desarrollar capacidad de adquisición implementando campañas de Meta Ads y contenido orgánico en Instagram para identificar canales de conversión efectivos, (3) Establecer primeras alianzas con 3-5 influencers de crianza y maternidad en Chile para amplificar alcance y credibilidad, (4) Definir modelo de ingresos validado testeando al menos 2 estructuras de pricing con métricas claras (CAC, tasa de conversión, retención a 30 días), y (5) Construir red en el ecosistema startup chileno que apoye nuestro aprendizaje y próximos pasos de crecimiento.
 ```
 
-**JUSTIFICACIÓN DEL CAMBIO:**
-- Más realista para 4 meses de programa
-- Enfocado en validación vs. escalamiento
-- Metas cuantificables y alcanzables (50-100 vs. 100+)
-- Específico sobre canales (Meta Ads, IG, influencers)
-- Elimina "posicionamiento como líder en LATAM" (muy aspiracional para 4 meses)
+### ¿POR QUÉ CAMBIAR?
+- ✅ Más realista para 4 meses de programa
+- ✅ Enfocado en validación vs. escalamiento
+- ✅ Metas cuantificables y alcanzables (50-100 familias vs. 100+)
+- ✅ Específico sobre canales (Meta Ads, IG, influencers nombrados)
+- ✅ Elimina "posicionamiento como líder en LATAM" (muy aspiracional para 4 meses)
 
 ---
 
-### 2. TRACCIÓN O VALIDACIÓN LOGRADA ⚠️ AJUSTE DE TRANSPARENCIA
+## CAMBIO #2 - ⚠️ IMPORTANTE
 
-**VERSIÓN ORIGINAL:**
+### PREGUNTA DEL FORMULARIO:
+**"Describe la tracción o validación que ha logrado tu startup"**
+*Destaca hitos clave como ventas, usuarios, pilotos, validación del MVP, o socios y clientes notables.*
+
+### UBICACIÓN EN EL FORMULARIO:
+Sección: **Mercado y Negocio**
+
+### VERSIÓN ORIGINAL:
 ```
 ESTADO ACTUAL: BRL 5 - Experimentando con segmentos/canales, aprendizaje e iteraciones
 
@@ -83,39 +101,78 @@ APRENDIZAJES CLAVE BUSCADOS:
 El núcleo tecnológico está operativo. Start-Up Chile nos permitirá validar comercialmente el producto y construir bases para escalamiento futuro.
 ```
 
-**JUSTIFICACIÓN DEL CAMBIO:**
-- Más transparente sobre estado actual (no tenemos ventas aún)
-- Enfatiza que Start-Up Chile es para VALIDACIÓN, no para escalamiento
-- Menciona equipo de 3 personas (realista)
-- Prioriza aprendizaje sobre crecimiento
-- Elimina frases ambiguas como "expansión a usuarios pagos" (implica que ya hay pagos)
+### ¿POR QUÉ CAMBIAR?
+- ✅ Más transparente sobre estado actual (no tenemos ventas aún)
+- ✅ Enfatiza que Start-Up Chile es para VALIDACIÓN, no para escalamiento
+- ✅ Menciona equipo de 3 personas (realista)
+- ✅ Prioriza aprendizaje sobre crecimiento
+- ✅ Elimina frases ambiguas como "expansión a usuarios pagos" (implica que ya hay pagos)
+- ✅ Incluye "Aprendizajes clave buscados" (muestra pensamiento estratégico)
 
 ---
 
-### 3. ¿YA TIENE VENTAS? ⚠️ COHERENCIA
+## CAMBIO #3 - ⚠️ OPCIONAL
 
-**MANTENER:**
+### PREGUNTA DEL FORMULARIO:
+**"¿Tu negocio ya tiene ventas?"**
+
+### UBICACIÓN EN EL FORMULARIO:
+Sección: **Mercado y Negocio**
+
+### VERSIÓN ORIGINAL (está bien, puede mantenerse):
 ```
 No aún - Estamos en fase de testing beta con usuarios cercanos. Las primeras ventas comerciales están proyectadas para Q1 2025 tras finalizar validación del MVP con usuarios reales.
 ```
 
-**OPCIONAL - Versión más alineada con objetivo de 4 meses:**
+### VERSIÓN ALTERNATIVA (más específica sobre timing):
 ```
 No aún - Estamos en fase de testing beta con usuarios cercanos. La integración de pasarela de pagos y primeras ventas comerciales son objetivos prioritarios para el primer mes del programa Start-Up Chile (Enero 2025).
 ```
 
+### ¿POR QUÉ CAMBIAR?
+- ⚠️ OPCIONAL - La versión original ya es buena
+- ✅ La versión alternativa hace más explícito el timing (primer mes del programa)
+- ✅ Conecta mejor con el objetivo principal actualizado
+
 ---
 
-### 4. MÉTRICAS CLAVE (UNIT ECONOMICS) ✅ MANTENER CON AJUSTE MENOR
+## CAMBIO #4 - ✅ RECOMENDADO
 
-**VERSIÓN ORIGINAL:**
+### PREGUNTA DEL FORMULARIO:
+**"Proporciona los valores más recientes de tus métricas clave (Unit Economics)"**
+*Pista: CAC, LTV, ARR, MRR, Burn Rate, u otras métricas relevantes.*
+
+### UBICACIÓN EN EL FORMULARIO:
+Sección: **Mercado y Negocio**
+
+### VERSIÓN ORIGINAL:
 ```
 MÉTRICAS PROYECTADAS (Pre-comercialización):
+
 Estimaciones conservadoras basadas en benchmarks de EdTech B2C:
-[...]
+
+CAC (Costo de Adquisición de Cliente):
+- Estimado: $5-10 USD en fase temprana (marketing digital, redes sociales)
+- Meta: <$15 USD una vez optimizados canales
+
+LTV (Valor de Vida del Cliente):
+- Estimado: $50-80 USD (año 1)
+- Supuestos: 3-5 cuentos/año, 40% retención año 2
+- Ratio LTV:CAC objetivo: 5:1 o superior
+
+ARR/MRR:
+- Actualmente: $0 (pre-lanzamiento comercial)
+- Meta año 1: $30,000 USD ARR (1,000 familias activas)
+- Meta año 3: $960,000 USD ARR
+
+Burn Rate:
+- Actual: ~$2,000 USD/mes (costos de infraestructura, APIs de IA)
+- Financiado por fundadores (bootstrapped)
+
+NOTA: Estas son proyecciones pre-comercialización. Las métricas reales se establecerán en Q1 2025 con las primeras ventas.
 ```
 
-**VERSIÓN ACTUALIZADA (enfatizar que son hipótesis a validar):**
+### VERSIÓN ACTUALIZADA (enfatiza hipótesis a validar):
 ```
 MÉTRICAS PROYECTADAS (Pre-comercialización - A validar en programa):
 
@@ -143,16 +200,28 @@ Burn Rate Actual:
 NOTA IMPORTANTE: Estas son hipótesis pre-comercialización. El objetivo del programa Start-Up Chile es validar o refutar estos supuestos con datos reales de mercado durante los 4 meses.
 ```
 
-**JUSTIFICACIÓN:**
-- Honesto sobre que son HIPÓTESIS, no métricas validadas
-- Muestra pensamiento estructurado
-- Demuestra que entiendes qué necesitas aprender
+### ¿POR QUÉ CAMBIAR?
+- ✅ Honesto sobre que son HIPÓTESIS, no métricas validadas
+- ✅ Muestra pensamiento estructurado y científico
+- ✅ Demuestra que entiendes exactamente qué necesitas aprender
+- ✅ Indica cómo vas a validar cada hipótesis (Meta Ads, influencers, etc.)
+- ✅ Agrega pricing específico en CLP (más real para mercado chileno)
 
 ---
 
-### 5. ESTRATEGIA GO-TO-MARKET ⚠️ AJUSTE EN AÑO 1
+## CAMBIO #5 - ⚠️ AJUSTE PARCIAL
 
-**VERSIÓN ORIGINAL - AÑO 1:**
+### PREGUNTA DEL FORMULARIO:
+**"¿Cuál es tu estrategia de go-to-market? ¿Cómo planeas expandirte en los próximos cinco años?"**
+*Describe tu estrategia, base de clientes, mercados, eventos clave, hitos relevantes, desarrollo de producto, partnerships clave y expansión del equipo año por año.*
+
+### UBICACIÓN EN EL FORMULARIO:
+Sección: **Mercado y Negocio**
+
+### NOTA IMPORTANTE:
+Solo se recomienda cambiar **AÑO 1** (los años 2-5 están bien como están)
+
+### VERSIÓN ORIGINAL - AÑO 1:
 ```
 AÑO 1 (2025): VALIDACIÓN Y LANZAMIENTO
 Mercado: Chile, Región Metropolitana
@@ -187,61 +256,108 @@ Q2-Q4 (Post-programa):
 - Hitos: Product-market fit inicial, NPS >40, preparación para fundraising
 ```
 
-**JUSTIFICACIÓN:**
-- Divide Año 1 en dos fases: programa (4 meses) y post-programa
-- Metas más conservadoras y realistas para Q1
-- Muestra progresión lógica de aprendizaje
+### ¿POR QUÉ CAMBIAR?
+- ✅ Divide Año 1 en dos fases: programa (4 meses) y post-programa
+- ✅ Metas más conservadoras y realistas para Q1 (50-100 vs. 1,000 familias)
+- ✅ Ingresos realistas para 4 meses ($2K-5K vs. $30K)
+- ✅ Muestra progresión lógica de aprendizaje
+- ✅ Mantiene ambición para todo el año ($20K-30K acumulado)
+- ✅ Coherente con objetivo principal actualizado
+
+---
+---
+
+# RESUMEN EJECUTIVO
+
+## ✅ CAMBIOS CRÍTICOS (Aplicar sí o sí):
+
+### 1. Objetivo Principal del Proyecto
+- **Pregunta:** "Objetivo principal del proyecto"
+- **Sección:** Información de la Startup
+- **Acción:** Reemplazar texto completo con versión actualizada (4 meses)
+
+### 2. Tracción o Validación Lograda
+- **Pregunta:** "Describe la tracción o validación que ha logrado tu startup"
+- **Sección:** Mercado y Negocio
+- **Acción:** Reemplazar texto completo con versión actualizada (más transparente)
 
 ---
 
-## RESUMEN DE CAMBIOS RECOMENDADOS
+## ⚠️ CAMBIOS RECOMENDADOS (Mejoran coherencia):
 
-### ✅ CAMBIOS CRÍTICOS (Hacer sí o sí):
-1. **Objetivo Principal del Proyecto** - Nueva versión enfocada en 4 meses
-2. **Tracción o Validación Lograda** - Ser más transparente sobre estado actual
+### 3. ¿Tu negocio ya tiene ventas?
+- **Pregunta:** "¿Tu negocio ya tiene ventas?"
+- **Sección:** Mercado y Negocio
+- **Acción:** OPCIONAL - Puede mantenerse original o usar versión alternativa
 
-### ⚠️ CAMBIOS RECOMENDADOS (Mejoran coherencia):
-3. **Métricas Clave** - Enfatizar que son hipótesis a validar
-4. **Estrategia Go-to-Market Año 1** - Dividir en Q1 (programa) y Q2-Q4
+### 4. Métricas Clave (Unit Economics)
+- **Pregunta:** "Proporciona los valores más recientes de tus métricas clave"
+- **Sección:** Mercado y Negocio
+- **Acción:** Reemplazar texto completo enfatizando hipótesis a validar
 
-### 📌 MANTENER SIN CAMBIOS:
-- High-level pitch
+### 5. Estrategia Go-to-Market (solo Año 1)
+- **Pregunta:** "¿Cuál es tu estrategia de go-to-market? ¿Cómo planeas expandirte en los próximos cinco años?"
+- **Sección:** Mercado y Negocio
+- **Acción:** Reemplazar SOLO la sección de "AÑO 1" con la versión actualizada (Q1 + Q2-Q4)
+- **IMPORTANTE:** Años 2-5 se mantienen SIN CAMBIOS
+
+---
+
+## 📌 MANTENER SIN CAMBIOS:
+
+Las siguientes secciones del formulario NO requieren modificaciones:
+- High-level pitch (7 palabras)
 - Descripción pública
-- Descripción del problema y solución
+- Descripción del problema
+- Descripción de la solución
 - Mercado objetivo (TAM/SAM/SOM)
 - Competidores y diferenciación
-- Plan de 5 años (Años 2-5)
-- Todas las respuestas sobre equipo, industria, tecnología, IP, etc.
+- Todas las preguntas sobre: equipo, industria, tecnología, propiedad intelectual, SDGs, etc.
+- Plan de 5 años (Años 2, 3, 4, 5)
 
 ---
 
-## ANÁLISIS DE COHERENCIA
+## ¿POR QUÉ ESTOS CAMBIOS SON COHERENTES?
 
-### ¿Estas metas de 4 meses son coherentes con el resto del documento?
+### Mensaje que transmite el documento actualizado:
+
+> *"Somos un equipo técnico de 3 personas con MVP funcional y visión clara de largo plazo. Buscamos Start-Up Chile específicamente para validar comercialmente nuestro producto en 4 meses intensivos, establecer bases sólidas de adquisición (Meta Ads, Instagram, influencers), definir pricing óptimo, y construir capacidad de aprendizaje antes de escalar."*
+
+Esto es **MÁS ATRACTIVO** para evaluadores que decir "vamos a ser líderes en LATAM en 4 meses" (poco creíble).
+
+### ¿Son coherentes estos cambios?
 
 **SÍ, porque:**
-- El documento YA menciona que están en fase pre-comercial
-- Las proyecciones de largo plazo (Años 2-5) siguen siendo válidas como VISIÓN
-- Start-Up Chile busca startups en fase temprana, no scaleups
-- Demuestras pensamiento estratégico: validar antes de escalar
-
-### ¿Qué mensaje transmite el documento actualizado?
-
-**"Somos un equipo técnico con MVP funcional y visión clara de largo plazo. Buscamos Start-Up Chile específicamente para validar comercialmente nuestro producto en 4 meses intensivos, establecer bases sólidas de adquisición y aprendizaje, y luego escalar con datos reales."**
-
-Esto es MÁS atractivo que decir "vamos a ser líderes en LATAM en 4 meses" (poco creíble).
+- ✅ El documento YA menciona que están en fase pre-comercial sin ventas
+- ✅ Las proyecciones de largo plazo (Años 2-5) siguen válidas como VISIÓN aspiracional
+- ✅ Start-Up Chile busca startups en **fase temprana**, no scaleups
+- ✅ Demuestras pensamiento estratégico: **validar antes de escalar**
+- ✅ Muestras honestidad y madurez (no ocultas que no tienes ventas)
 
 ---
 
-## PRÓXIMOS PASOS
+## CÓMO APLICAR ESTOS CAMBIOS
 
-1. ✅ Copiar las nuevas versiones al documento .docx original
-2. ✅ Revisar que el tono sea consistente
-3. ✅ Asegurar que los números (50-100 familias) sean consistentes en todas las menciones
-4. ⚠️ Preparar respuestas para posibles preguntas de evaluadores:
-   - "¿Por qué no tienen ventas aún?" → "Priorizamos construir producto sólido antes de monetizar; Start-Up Chile nos permite hacer esa transición con apoyo"
-   - "¿Cómo saben que el mercado pagará?" → "Feedback cualitativo positivo + benchmarks de competidores internacionales; necesitamos validar pricing local"
+### Opción 1: Aplicar directamente al .docx
+Puedo actualizar el archivo Word original con estos cambios si me das el OK.
+
+### Opción 2: Copiar manualmente
+Puedes copiar cada sección desde este documento y pegarla en el formulario online o en el .docx.
 
 ---
 
-**¿Estás de acuerdo con estos cambios? ¿Quieres ajustar algo antes de aplicarlos al documento?**
+## PREGUNTAS FRECUENTES DE EVALUADORES
+
+Prepara estas respuestas por si te las hacen:
+
+**P: "¿Por qué no tienen ventas aún?"**
+R: "Priorizamos construir un producto sólido y validado técnicamente antes de monetizar. Start-Up Chile nos permite hacer esa transición comercial con el apoyo y estructura adecuados."
+
+**P: "¿Cómo saben que el mercado pagará?"**
+R: "Hemos recibido feedback cualitativo muy positivo de usuarios beta. Además, existen competidores internacionales (Wonderbly, Hooray Heroes) cobrando $50-100 USD, lo que valida demanda. Necesitamos validar pricing óptimo para el mercado chileno específicamente."
+
+**P: "¿50-100 familias en 4 meses es muy poco, no?"**
+R: "Nuestro objetivo es aprendizaje profundo, no solo vanity metrics. Preferimos 50 familias con alta retención y feedback valioso, que 500 familias sin engagement. Esto nos permitirá iterar el producto antes de escalar."
+
+**P: "¿Por qué Start-Up Chile y no otra aceleradora?"**
+R: "Chile es nuestro mercado inicial por idioma, cultura similar y acceso. El programa nos da red, mentoría y fondos para validar antes de expandir a LATAM. Además, el ecosistema de Start-Up Chile es ideal para conectar con investors y partners regionales."
