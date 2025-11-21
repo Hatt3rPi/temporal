@@ -1,4 +1,4 @@
-# Resolucioxxn Electroxxnica Exenta Nxx1457 De 2025 De Corfo Modifica Bases Start Up Chile Big 11
+# Resolución Electrónica Exenta N°1457 de 2025 de CORFO - Modifica Bases Start-Up Chile
 
 ## Información del Documento
 
@@ -46,7 +46,7 @@ de toma de razón.
 C O N S I D E R A N D O :
 
 1.
-Que, por Resolución Electrónica Exenta N°1. 424, de      2024,      de Corfo, se aprobó
+Que, por Resolución Electrónica Exenta N°1. 424, de 2024, de Corfo, se aprobó
 el nuevo texto de las Bases Técnicas y Administrativas del instrumento de
 financiamiento denominado “Start-Up Chile”, para sus Líneas 1 “Build”, 2 “Ignite, 3
 “Growth”.
@@ -55,7 +55,7 @@ financiamiento denominado “Start-Up Chile”, para sus Líneas 1 “Build”, 
 Que, por Acuerdo Único, adoptado en la Sesión N°62 del Subcomité Start-Up Chile
 del Comité de Emprendimiento de Corfo, celebrada el 4 de septiembre de 2025,
 ejecutado mediante Resolución Electrónica Exenta N°1453, de 2025, de Corfo, se
-dejó sin efecto el Acuerdo      Único, adoptado en la Sesión N°57, del Subcomité Start-
+dejó sin efecto el Acuerdo Único, adoptado en la Sesión N°57, del Subcomité Start-
 Up Chile del Comité de Emprendimiento de Corfo, celebrada el 13 de septiembre de
 2024, ejecutado mediante Resolución Exenta N°1422, de 2024, de Corfo, y se aprobó
 la creación, el objetivo general, los resultados esperados, los montos y porcentajes
@@ -514,12 +514,12 @@ hombres han levantado el 97% de capital privado histórico del portafolio, pero 
 promedio, las startups lideradas por mujeres generan mayores ventas que aquellas
 lideradas por hombres (Encuesta Anual Start-Up Chile 2024).
 
-Entre los años 2015 y 2025     , Start-Up Chile con su programa “The S Factory”, hoy
-denominado “Build”, ha financiado más de 370      emprendimientos en etapas
+Entre los años 2015 y 2025 , Start-Up Chile con su programa “The S Factory”, hoy
+denominado “Build”, ha financiado más de 370 emprendimientos en etapas
 tempranas liderados por mujeres. Éstos han logrado, en su mayoría, la validación en
 el mercado, incrementando las probabilidades de financiamiento posterior para
-desarrollar la empresa. Algunas de estas posibilidades de cofinanciamiento son      las
-líneas Ignite      y Growth del Programa Start-Up Chile el que, en el año 2020      logró
+desarrollar la empresa. Algunas de estas posibilidades de cofinanciamiento son las
+líneas Ignite y Growth del Programa Start-Up Chile el que, en el año 2020 logró
 el porcentaje más alto de emprendimientos con fundadoras mujeres desde su
 creación.
 
@@ -690,15 +690,15 @@ Dentro del equipo de trabajo de la persona jurídica postulante se
 considerará un/a “Líder de Equipo” (sólo uno, y obligatorio), que
 corresponde a la persona natural, debidamente individualizada en
 la postulación, que deberá actuar en representación de la persona
-jurídica      beneficiario, como responsable ante Corfo. La persona
+jurídica beneficiario, como responsable ante Corfo. La persona
 designada como Líder de Equipo deberá ser uno/a de los/las
 fundadores/as o socios/as del proyecto y tener una participación
 directa o indirecta, de al menos, un 10% del capital de la persona
-jurídica      beneficiario (ver Anexo N°3). Además, deberá participar
+jurídica beneficiario (ver Anexo N°3). Además, deberá participar
 del Programa en Chile durante todo el período de ejecución del
 proyecto y con dedicación exclusiva al desarrollo de éste.
 
-Excepcionalmente,  sólo en caso de salud incompatible para cumplir
+Excepcionalmente, sólo en caso de salud incompatible para cumplir
 con los requerimientos del programa, debidamente acreditado, el
 beneficiario podrá solicitar el cambio de Líder de Equipo, cuyos
 antecedentes serán verificados previamente por Corfo.
@@ -721,7 +721,7 @@ aprobada por Corfo.
 4.3. Entidad Patrocinadora.
 
 La Entidad Patrocinadora es una institución que actúa como intermediaria
-especialista entre Start-Up Chile y      el      beneficiario, que deberá facilitar
+especialista entre Start-Up Chile y el beneficiario, que deberá facilitar
 servicios de apoyo al seguimiento técnico, apoyo al seguimiento financiero
 y
 poner
@@ -821,7 +821,7 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 debidamente informada al beneficiario.
 e) “Initial Meeting”: Se realiza la presentación del proyecto y se revisan objetivos
 técnicos y financieros. Esta reunión se llevará a cabo al inicio del plazo de
-ejecución de proyecto, en fecha debidamente informada al           beneficiario.
+ejecución de proyecto, en fecha debidamente informada al beneficiario.
 f) “Pitch Day”: Presentación del proyecto, siguiendo los requerimientos
 informados oportunamente por Corfo, con el objeto de determinar el progreso
 en el desarrollo del mismo. Esta presentación se efectuará ante los
@@ -865,10 +865,10 @@ fotocopia simple de la hoja de identificación de su pasaporte vigente y/o
 de su documento de identificación nacional vigente. En caso de que
 dicho documento se encuentre en trámite, se deberá adjuntar el
 documento que acredite esta situación.
-d) Respecto      del      beneficiario persona jurídica de derecho privado
+d) Respecto del beneficiario persona jurídica de derecho privado
 constituida en Chile:
 ● Transcripción literal del objeto social o finalidad que consta en los
-estatutos      del      beneficiario.
+estatutos del beneficiario.
 ● Explicar fundadamente la pertinencia del objeto social o finalidad
 transcrita, en relación con las actividades a desarrollar para la
 obtención del objetivo del proyecto.
@@ -904,7 +904,7 @@ se revisará hasta los primeros 90 segundos, no considerándose el resto
 de la información que contenga.
 
 Además, el video debe estar libre de contraseñas, y podrá estar alojado
-en las plataformas o servicios web para compartir videos que      el
+en las plataformas o servicios web para compartir videos que el
 beneficiario estime conveniente, que permitan identificar la fecha de
 carga del archivo y, de esta forma, evitar modificaciones una vez cerrado
 el periodo de postulación del respectivo concurso. El video debe estar
@@ -957,7 +957,7 @@ deberá adjuntar la respectiva resolución y, además, los antecedentes
 que permitan acreditar que es una empresa de menor tamaño, de
 acuerdo con el artículo segundo de la Ley N°20.416 (que, para efectos
 del presente instrumento, se entenderá como aquella que ha tenido
-ingresos por ventas que no exceden las 100.000 U.F.  en el último año
+ingresos por ventas que no exceden las 100.000 U.F. en el último año
 0992F9E9-C703-4C57-929A-469497D23225
 Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/VisualizadorFirmaElectronica/Modules/Validador/ValidacionDocumento.aspx
 
@@ -985,7 +985,7 @@ Plazos.
 El plazo de ejecución de los proyectos deberá ser de 4 (cuatro) meses. Lo
 anterior, es sin perjuicio de la extensión del proyecto, de acuerdo con lo
 establecido en el numeral 11. siguiente. Dicho plazo podrá ser prorrogado, por
-una sola vez y hasta por 1 (un) mes adicional, previa solicitud fundada      del
+una sola vez y hasta por 1 (un) mes adicional, previa solicitud fundada del
 beneficiario antes del vencimiento del plazo de ejecución, ya sea durante el plazo
 original o durante la extensión.
 
@@ -1419,13 +1419,13 @@ la naturaleza y el objetivo general de los proyectos.
 Con la finalidad de potenciar el desarrollo de proyectos que demuestren altas
 posibilidades de viabilidad en el mercado y de obtención de financiamiento
 durante los primeros 3 (tres) meses de ejecución, se considera la posibilidad para
-los      beneficiarios, de solicitar su extensión.
+los beneficiarios, de solicitar su extensión.
 
 Antes de cumplirse el tercer mes de ejecución del proyecto, y de acuerdo con el
-número 6 anterior,      el      beneficiario      deberá presentar su pitch para ser
-evaluado      por Corfo. Previo a la presentación del pitch,      el      beneficiario que
+número 6 anterior, el beneficiario deberá presentar su pitch para ser
+evaluado por Corfo. Previo a la presentación del pitch, el beneficiario que
 quiera optar por la extensión, deberá informar a Corfo que tiene interés en la
-extensión de su proyecto. En este momento      el      beneficiario persona jurídica
+extensión de su proyecto. En este momento el beneficiario persona jurídica
 podrá solicitar cambio de Líder de Equipo para su nueva postulación.
 
 Para el caso de beneficiarios/as persona natural, respecto de los cuales Corfo
@@ -1696,7 +1696,7 @@ sea titular en la ejecución del proyecto global.
 
 La persona natural participará en la categoría de “Líder de Equipo”
 (sólo uno, obligatorio), y corresponde a aquella persona natural,
-debidamente individualizada en la postulación como      beneficiario,
+debidamente individualizada en la postulación como beneficiario,
 que deberá actuar como responsable ante Corfo. En caso de que
 el/la Líder de Equipo actúe en representación de una empresa
 constituida en el extranjero, este deberá tener al menos un 10% de
@@ -1722,10 +1722,10 @@ Dentro del equipo de trabajo de la persona jurídica postulante se
 considerará un “Líder de Equipo” (sólo uno, obligatorio), que
 corresponde a la persona natural, debidamente individualizada en
 la postulación, que deberá actuar en representación de la persona
-jurídica      beneficiario, como responsable ante Corfo. La persona
+jurídica beneficiario, como responsable ante Corfo. La persona
 designada como Líder de Equipo deberá ser uno de los fundadores
 o socios del proyecto y tener una participación directa o indirecta,
-en, al menos, un 10% del capital de la persona jurídica      beneficiario
+en, al menos, un 10% del capital de la persona jurídica beneficiario
 (ver Anexo N°3). Además, deberá participar del Programa en Chile
 durante todo el período de ejecución del proyecto y con dedicación
 exclusiva al desarrollo de éste.
@@ -1835,7 +1835,7 @@ propuestas en el proyecto.
 c) Completar el formulario de seguimiento de indicadores mensual (“S-Update”),
 con el cual se identifica la etapa de desarrollo del proyecto al inicio de su
 ejecución y se obtienen datos para la generación de indicadores y estudios.
-La fecha de entrega de cada formulario será debidamente informada a     l
+La fecha de entrega de cada formulario será debidamente informada a l
 beneficiario.
 d) Asistencia a la presentación de inducción sobre el Programa Start-Up
 0992F9E9-C703-4C57-929A-469497D23225
@@ -1847,7 +1847,7 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 
 Chile (Orientation Day), en la cual se presentará y se expondrá sobre el
 equipo, el sistema de impacto social, la aceleración y talleres sobre
-rendiciones de cuentas, en la fecha debidamente informada a la      beneficiario.
+rendiciones de cuentas, en la fecha debidamente informada a la beneficiario.
 e) “Initial Meeting”: Se realiza la presentación del proyecto y se revisan objetivos
 técnicos y financieros. Esta reunión se llevará a cabo al inicio del plazo de
 ejecución de proyecto, en fecha debidamente informada al beneficiario.
@@ -1855,7 +1855,7 @@ f) “Pitch Day”: Presentación del proyecto, siguiendo los requerimientos
 informados oportunamente por Corfo, con el objeto de determinar el progreso
 en el desarrollo del mismo. Esta presentación se efectuará ante los
 participantes del Programa y representantes de Corfo en la fecha debidamente
-informada al           beneficiario.
+informada al beneficiario.
 g) Reuniones con el ejecutivo técnico y/o financiero para rendir cuenta de la
 totalidad de los recursos otorgados, incluida aquella que dé cuenta del Informe
 Final.
@@ -1901,7 +1901,7 @@ documento que acredite esta situación.
 d) Respecto del beneficiario persona jurídica de derecho privado
 constituida en Chile:
 ● Transcripción literal del objeto social o finalidad que consta en los
-estatutos del           beneficiario.
+estatutos del beneficiario.
 ● Explicar fundadamente la pertinencia del objeto social o finalidad
 transcrita, en relación con las actividades a desarrollar para la
 obtención del objetivo del proyecto.
@@ -1922,7 +1922,7 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 evaluación.
 h) El producto y/o servicio a desarrollar y/o comercializar. Se deberá
 presentar mediante un primer video con una duración máxima de 120
-segundos      que permita      acreditar que      el      beneficiario dispone, al
+segundos que permita acreditar que el beneficiario dispone, al
 menos, de un producto mínimo viable (MVP) o prototipo funcional de la
 solución.
 
@@ -1958,7 +1958,7 @@ se revisará hasta los 90 primeros segundos, no considerándose el resto
 de la información que contenga.
 
 Además, el video debe estar libre de contraseñas, y podrá estar alojado
-en las plataformas o servicios web para compartir videos que      el
+en las plataformas o servicios web para compartir videos que el
 beneficiario estime conveniente, que permitan identificar la fecha de
 carga del archivo y, de esta forma, evitar modificaciones una vez cerrado
 el periodo de postulación del respectivo concurso. El video debe estar
@@ -2009,7 +2009,7 @@ c) Antecedentes para la bonificación establecida en la Ley N°21.561 a
 las empresas de menor tamaño, que hayan implementado de forma
 anticipada la reducción de jornada laboral
 
-Informar si a      el      beneficiario se le otorgó o no por el Ministerio del
+Informar si a el beneficiario se le otorgó o no por el Ministerio del
 Trabajo y Previsión Social, el sello que certifica que, de conformidad con
 los requisitos establecidos por la Subsecretaría del Trabajo, implementó
 de forma anticipada la reducción de jornada laboral establecida en la Ley
@@ -2018,7 +2018,7 @@ deberá adjuntar la respectiva resolución y, además, los antecedentes
 que permitan acreditar que es una empresa de menor tamaño, de
 acuerdo con el artículo segundo de la Ley N°20.416 (que, para efectos
 del presente instrumento, se entenderá como aquella que ha tenido
-ingresos por ventas que no exceden las 100.000 U.F.  en el último año
+ingresos por ventas que no exceden las 100.000 U.F. en el último año
 calendario).
 
 Corfo, en todo momento, podrá solicitar, de ser necesario, los
@@ -2093,7 +2093,7 @@ Patrocinadora, o por períodos vencidos durante la ejecución del proyecto,
 o en forma posterior a la entrega del Informe Final correspondiente y una
 vez que se encuentre evaluada por parte de Corfo la labor realizada por la
 Entidad Patrocinadora para Start-Up Chile, en base a la información que
-entreguen      el      beneficiario y dicha Entidad.
+entreguen el beneficiario y dicha Entidad.
 
 9.3. Aportes del beneficiario.
 
@@ -2408,8 +2408,8 @@ de ejecución, se contempla la posibilidad para los beneficiarios, de solicitar 
 extensión.
 
 Antes de cumplirse el cuarto mes de ejecución del proyecto, y de acuerdo con el
-número 6 anterior,      el      beneficiario deberá presentar su pitch para ser evaluada
-por Corfo. Previo a la presentación del pitch,      el      beneficiario que quiera optar
+número 6 anterior, el beneficiario deberá presentar su pitch para ser evaluada
+por Corfo. Previo a la presentación del pitch, el beneficiario que quiera optar
 por la extensión, deberá informar a Corfo que tiene interés en la extensión de su
 proyecto.
 
@@ -2477,8 +2477,8 @@ en
 actividades
 voluntarias, y aportes a la comunidad). Este
 criterio se calcula con datos registrados
-durante el seguimiento del proyecto,      de
-conformidad con lo informado      oportunamente
+durante el seguimiento del proyecto, de
+conformidad con lo informado oportunamente
 al inicio del programa.
 10%
 Valor del
@@ -2486,7 +2486,7 @@ Negocio
 Solución propuesta: Se evaluará el grado de
 innovación e impacto en cuanto a resolver el
 problema existente.
-15     %
+15 %
 Tracción
 y Avance:
 Se
@@ -2511,7 +2511,7 @@ evaluación anterior.
 Impacto en Chile: Se evaluará la suficiencia de
 los resultados e impacto socioeconómico
 actualizados generados en Chile.
-15     %
+15 %
 
 Corresponderá al Subcomité Start-Up Chile decidir acerca de aquellos
 proyectos que obtendrán la asignación del subsidio adicional y del plazo de
@@ -2664,13 +2664,13 @@ referencia el valor de la Unidad de Fomento del día de inicio de la
 respectiva convocatoria.
 En caso de que las ventas estén expresadas en moneda extranjera,
 se estará al tipo de cambio observado por el Banco Central de Chile,
-a la fecha de inicio      de la respectiva convocatoria.
+a la fecha de inicio de la respectiva convocatoria.
 
 Dentro del equipo de trabajo de la persona jurídica postulante se
 considerará un “Líder de Equipo” (sólo uno, obligatorio), que
 corresponde a la persona natural, debidamente individualizada
 durante el proceso de postulación, que deberá actuar en
-representación de la persona jurídica      beneficiario, como
+representación de la persona jurídica beneficiario, como
 responsable ante Corfo. Éste deberá participar del Programa en
 Chile, en carácter de plataforma permanente, durante todo el
 período de ejecución del proyecto, salvo en casos calificados y
@@ -2799,10 +2799,10 @@ beneficiario.
 d) Asistencia a la presentación de inducción sobre el Programa Start-Up
 Chile (Orientation Day), en la cual se presentará y se expondrá sobre el
 equipo, el sistema de impacto social, la aceleración y talleres sobre
-rendiciones de cuentas, en la fecha debidamente informada al           beneficiario.
+rendiciones de cuentas, en la fecha debidamente informada al beneficiario.
 e) “Initial Meeting”: Se realiza la presentación del proyecto y se revisan objetivos
 técnicos y financieros. Esta reunión se llevará a cabo al inicio del plazo de
-ejecución de proyecto, en fecha debidamente informada al           beneficiario.
+ejecución de proyecto, en fecha debidamente informada al beneficiario.
 f) Reuniones con el ejecutivo técnico y/o financiero para rendir cuenta de la
 totalidad de los recursos otorgados, incluida aquella que dé cuenta del Informe
 Final.
@@ -2857,7 +2857,7 @@ que acredite esta situación.
 d) Respecto del beneficiario persona jurídica de derecho privado
 constituida en Chile:
 ● Transcripción literal del objeto social o finalidad que consta en los
-estatutos      del      beneficiario.
+estatutos del beneficiario.
 ● Explicar fundadamente la pertinencia del objeto social o finalidad
 transcrita, en relación con las actividades a desarrollar para la
 obtención del objetivo del proyecto.
@@ -2889,7 +2889,7 @@ se revisará hasta los 90 primeros segundos, no considerándose el resto
 de la información que contenga.
 
 Además, el video debe estar libre de contraseñas, y podrá estar alojado
-en las plataformas o servicios web para compartir videos que      el
+en las plataformas o servicios web para compartir videos que el
 beneficiario estime conveniente, que permitan identificar la fecha de
 carga del archivo y, de esta forma, evitar modificaciones una vez cerrado
 el periodo de postulación del respectivo concurso. El video debe estar
@@ -2940,7 +2940,7 @@ c) Antecedentes para la bonificación establecida en la Ley N°21.561 a
 las empresas de menor tamaño, que hayan implementado de forma
 anticipada la reducción de jornada laboral
 
-Informar si      al      beneficiario se le otorgó o no por el Ministerio del
+Informar si al beneficiario se le otorgó o no por el Ministerio del
 Trabajo y Previsión Social, el sello que certifica que, de conformidad con
 los requisitos establecidos por la Subsecretaría del Trabajo, implementó
 de forma anticipada la reducción de jornada laboral establecida en la Ley
@@ -2949,7 +2949,7 @@ deberá adjuntar la respectiva resolución y, además, los antecedentes
 que permitan acreditar que es una empresa de menor tamaño, de
 acuerdo con el artículo segundo de la Ley N°20.416 (que, para efectos
 del presente instrumento, se entenderá como aquella que ha tenido
-ingresos por ventas que no exceden las 100.000 U.F.  en el último año
+ingresos por ventas que no exceden las 100.000 U.F. en el último año
 calendario).
 
 Corfo, en todo momento, podrá solicitar, de ser necesario, los
@@ -3373,7 +3373,7 @@ asignador podrá establecer una lista de espera, sujeto a que en el plazo que
 se defina por dicho órgano, se verifique, una o más veces, alguna de las
 siguientes condiciones:
 
-• Se incremente la disponibilidad presupuestaria de Corfo     .
+• Se incremente la disponibilidad presupuestaria de Corfo .
 • Que alguno(s) de los proyectos adjudicados no se formalice, desistan o se
 termine anticipadamente, con anterioridad a la entrega de la única o primera
 cuota del subsidio.
@@ -3412,7 +3412,7 @@ Aspectos Generales.
 Las presentes bases administrativas regulan los procesos y trámites que
 deberán cumplirse desde la etapa de la postulación de las propuestas, hasta
 el término del proyecto y, cuando corresponda, de la relación contractual y de
-todas las obligaciones que ésta origine entre Corfo y      el      beneficiario.
+todas las obligaciones que ésta origine entre Corfo y el beneficiario.
 
 1.2. Plazos.
 
@@ -3537,9 +3537,9 @@ que se señalen en el formulario de postulación.
 
 a) Línea 1 “Build”:
 
-Cada      beneficiario, Líder de Equipo y Ejecutor(es), podrán postular sólo
+Cada beneficiario, Líder de Equipo y Ejecutor(es), podrán postular sólo
 en un proyecto por cada convocatoria. En caso de detectarse más de una
-postulación, sólo      será considerada la última. La(s) postulación(es)
+postulación, sólo será considerada la última. La(s) postulación(es)
 restante(s) se tendrá(n) por desistida(s).
 
 Además, aquellas personas que hayan participado o participen como
@@ -3561,7 +3561,7 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 
 b) Línea 2 “Ignite”:
 
-Cada      beneficiario, Líder de Equipo y Ejecutor(es), podrán postular sólo
+Cada beneficiario, Líder de Equipo y Ejecutor(es), podrán postular sólo
 en un proyecto por cada convocatoria. En caso de detectarse más de una
 postulación, sólo será considerada la última. La(s) postulación(es)
 restante(s) se tendrá(n) por desistida(s).
@@ -3579,9 +3579,9 @@ correspondan.
 
 c) Línea 3 “Growth”:
 
-Cada      beneficiario, Líder de Equipo y Ejecutor, podrán postular sólo en
+Cada beneficiario, Líder de Equipo y Ejecutor, podrán postular sólo en
 un proyecto por cada convocatoria. En caso de detectarse más de una
-postulación, sólo      será considerada la última. La(s) postulación(es)
+postulación, sólo será considerada la última. La(s) postulación(es)
 restante(s) se tendrá(n) por desistida(s).
 
 Además, aquellas personas que hayan participado o participen como
@@ -3595,7 +3595,7 @@ referido análisis, se tendrá por desistida la solicitud de cofinanciamiento o
 se dará término anticipado al proyecto, aplicando las consecuencias que
 correspondan.
 
-Al momento de postular, la      beneficiario deberá especificar la(s) línea(s) de
+Al momento de postular, la beneficiario deberá especificar la(s) línea(s) de
 financiamiento a las cuales postula su proyecto, de aquellas comprendidas en
 la convocatoria.
 
@@ -3606,7 +3606,7 @@ denominación que tenga o haya tenido, y haya sido o no postulados por el
 mismo beneficiario, esté siendo o haya sido cofinanciado anteriormente a
 través de alguno de los instrumentos de financiamiento (en cualquiera de sus
 versiones), que se señalan a continuación para cada línea. Para efectos de
-determinar la no ocurrencia de esta situación,      el      beneficiario deberá
+determinar la no ocurrencia de esta situación, el beneficiario deberá
 declararlo expresamente en el formulario de postulación:
 
 a) Línea 1 “Build”:
@@ -3649,7 +3649,7 @@ c) Línea 3 “Growth”:
 ● “Escalamiento”.
 ● “Growth”.
 
-Asimismo, aquellos      beneficiarios, respecto de las cuales se haya aprobado
+Asimismo, aquellos beneficiarios, respecto de las cuales se haya aprobado
 el proyecto y que, previo a su formalización, se les haya aprobado otro
 cofinanciamiento para la ejecución del mismo proyecto mediante otras líneas
 del presente instrumento, u otro instrumento de Corfo y/o de sus Comités,
@@ -3660,7 +3660,7 @@ formalice. En caso de detectarse la configuración de esta hipótesis y/o alguna
 infracción a lo indicado, se tendrá por desistida la postulación, o se dará
 término anticipado al proyecto, según corresponda.
 
-Por último, aquellos      beneficiarios, con proyectos en ejecución, a las cuales
+Por último, aquellos beneficiarios, con proyectos en ejecución, a las cuales
 se les haya aprobado otro cofinanciamiento para la ejecución del mismo
 proyecto mediante otras líneas del presente instrumento, u otro instrumento
 de Corfo y/o de sus Comités, deberá declararlo expresamente. En caso de
@@ -3685,12 +3685,12 @@ a) Línea 1 “Build”:
 REQUISITO
 i.
 Respecto de postulaciones cuyo beneficiario sea persona natural:
-● Que      el      beneficiario corresponda sólo a una persona natural chilena
+● Que el beneficiario corresponda sólo a una persona natural chilena
 o extranjera que, al momento de la postulación tenga cumplidos, a lo
 menos, 18 años.
 ii.
 Respecto de postulaciones cuyo beneficiario sea persona jurídica:
-● Que      el      beneficiario corresponda sólo a una persona jurídica con
+● Que el beneficiario corresponda sólo a una persona jurídica con
 fines de lucro, constituida en Chile, al momento de la postulación.
 ● Que el/la líder del equipo corresponda sólo a una persona natural.
 
@@ -3706,12 +3706,12 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 
 46
 
-● Que      el      beneficiario corresponda sólo a una persona natural chilena
+● Que el beneficiario corresponda sólo a una persona natural chilena
 o extranjera que, al momento de la postulación, tenga cumplidos, a lo
 menos, 18 años.
 ii.
 Respecto de postulaciones cuyo beneficiario sea persona jurídica:
-● Que      el      beneficiario corresponda sólo a una persona jurídica con
+● Que el beneficiario corresponda sólo a una persona jurídica con
 fines de lucro, constituida en Chile, al momento de la postulación.
 ● Que el/la líder del equipo corresponda sólo a una persona natural.
 
@@ -3720,12 +3720,12 @@ c) Línea 3 “Growth”:
 REQUISITO
 i.
 Respecto de postulaciones cuyo beneficiario sea persona natural:
-● Que      el      beneficiario corresponda sólo a una persona natural chilena
+● Que el beneficiario corresponda sólo a una persona natural chilena
 o extranjera que, al momento de la postulación, tenga cumplidos, a lo
 menos, 18 años.
 ii.
 Respecto de postulaciones cuya beneficiario sea persona jurídica:
-● Que el      beneficiario corresponda sólo a una persona jurídica con fines
+● Que el beneficiario corresponda sólo a una persona jurídica con fines
 de lucro, constituida en Chile, al momento de la postulación.
 ● Que el/la líder del equipo corresponda sólo a una persona natural.
 
@@ -3756,7 +3756,7 @@ de aplicación o ejecución en el territorio establecido para la respectiva
 apertura o llamado.
 4
 Que la postulación no esté incompleta, esto es, que en relación con los
-contenidos obligatorios indicados en el número 7.1.     , presente dos o más
+contenidos obligatorios indicados en el número 7.1. , presente dos o más
 campos de la postulación vacíos, y/o tres o más campos desplegables
 (dropdowns) vacíos.
 5
@@ -3840,7 +3840,7 @@ desde la fecha de apertura de la convocatoria.
 ● Ejecute un proyecto global (de base tecnológica) que utilice a Chile
 como plataforma.
 4
-Que el objeto social o finalidad      del      beneficiario, según la
+Que el objeto social o finalidad del beneficiario, según la
 transcripción efectuada en el formulario de postulación, sea pertinente
 en relación con las actividades a desarrollar para la obtención del
 objetivo del proyecto.
@@ -3866,7 +3866,7 @@ i. Postulante Persona Natural:
 N°
 REQUISITO
 1
-Que      el      beneficiario sea fundador      o titular en la ejecución de
+Que el beneficiario sea fundador o titular en la ejecución de
 un proyecto global de base tecnológica que utilice a Chile como
 plataforma.
 2
@@ -3889,7 +3889,7 @@ del proyecto global.
 4
 Que el proyecto cuente con un prototipo funcional y/o validado de la
 solución propuesta (MVP).
-5     Que el desarrollo comercial del proyecto sea de hasta 36 meses
+5 Que el desarrollo comercial del proyecto sea de hasta 36 meses
 contados a partir de la fecha de apertura de la convocatoria.
 
 ii. Postulante Persona Jurídica:
@@ -3905,10 +3905,10 @@ de la persona jurídica beneficiario.
 2
 Que el proyecto cuente con un prototipo funcional y/o producto
 mínimo viable de la solución propuesta (MVP).
-3     Que el desarrollo comercial del proyecto sea de hasta 36 meses
+3 Que el desarrollo comercial del proyecto sea de hasta 36 meses
 contados a partir de la fecha de apertura de la convocatoria.
 4
-Que la persona jurídica      beneficiario:
+Que la persona jurídica beneficiario:
 ● No tenga iniciación de actividades ante el Servicio de Impuestos
 Internos por un período superior a 36 meses contados hacia atrás
 desde la fecha de apertura de la convocatoria.
@@ -3941,11 +3941,11 @@ i. Postulante Persona Natural:
 N°
 REQUISITO
 1
-Que      el      beneficiario sea fundador      o socio      de una persona
+Que el beneficiario sea fundador o socio de una persona
 jurídica extranjera que ejecuta un proyecto global de base tecnológica
 que utilice a Chile como plataforma.
 2
-Que      el      beneficiario (líder del equipo), de conformidad a lo
+Que el beneficiario (líder del equipo), de conformidad a lo
 declarado en la postulación, cuente con una participación directa o
 indirecta, en, al menos, un 10% del capital de la persona jurídica
 extranjera titular del proyecto global.
@@ -3956,10 +3956,10 @@ al mes de apertura del concurso de, al menos, 2.400 UF.- (dos mil
 cuatrocientas Unidades de Fomento) y hasta 25.000 UF.- (veinticinco
 mil Unidades de Fomento). Para efectos de determinar el
 cumplimiento de los requisitos antes establecidos, se usará como
-referencia      el valor de la Unidad de Fomento      del día de inicio de
-la respectiva convocatoria.      En caso de que las ventas estén
+referencia el valor de la Unidad de Fomento del día de inicio de
+la respectiva convocatoria. En caso de que las ventas estén
 expresadas en moneda extranjera, se estará al tipo de cambio
-observado por el Banco Central de Chile, del día de inicio      de la
+observado por el Banco Central de Chile, del día de inicio de la
 0992F9E9-C703-4C57-929A-469497D23225
 Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/VisualizadorFirmaElectronica/Modules/Validador/ValidacionDocumento.aspx
 
@@ -3993,12 +3993,12 @@ referencia el valor de la Unidad de Fomento del día de inicio de la
 respectiva convocatoria.
 En caso de que las ventas estén expresadas en moneda extranjera,
 se estará al tipo de cambio observado por el Banco Central de Chile,
-a la fecha de inicio      de la respectiva convocatoria.
+a la fecha de inicio de la respectiva convocatoria.
 3
 Que el proyecto cuente con características innovadoras y de alto
 potencial de escalabilidad.
 4
-Que el      beneficiario haya iniciado actividades ante el Servicio de
+Que el beneficiario haya iniciado actividades ante el Servicio de
 Impuestos Internos, con una anterioridad de al menos 24 meses y no
 superior a 120 meses, al momento del inicio de la respectiva
 convocatoria.
@@ -4135,7 +4135,7 @@ respectivo órgano colegiado.
 Formalización del Proyecto.
 
 Luego de la aprobación del proyecto, se inicia la etapa de formalización, que tiene
-por finalidad la firma de un convenio de subsidio entre Corfo y      el      Beneficiario,
+por finalidad la firma de un convenio de subsidio entre Corfo y el Beneficiario,
 documento en el cual constarán los derechos y obligaciones de las partes con
 relación a la ejecución de la iniciativa.
 
@@ -4151,7 +4151,7 @@ El beneficiario deberá presentar, durante la etapa de formalización,
 antecedentes legales y, según corresponda, antecedentes de carácter técnico,
 en aquellos casos que las bases de la línea así lo requieren.
 
-El plazo para la entrega de los antecedentes legales y técnicos por parte      del
+El plazo para la entrega de los antecedentes legales y técnicos por parte del
 Beneficiario será el que Corfo determine en la comunicación formal de
 aprobación del proyecto. Este plazo podrá prorrogarse, previa solicitud
 fundada del Beneficiario, presentada antes del vencimiento del plazo original.
@@ -4240,7 +4240,7 @@ a) Copia simple, por ambos lados, de la cédula de identidad vigente,
 o bien, copia simple del pasaporte vigente, en que conste el sexo
 registral.
 b) Antecedentes que Corfo estime pertinentes, para una correcta
-individualización      del      Beneficiario.
+individualización del Beneficiario.
 
 Una vez recibidos los antecedentes legales de formalización, Corfo
 realizará su análisis, pudiendo solicitar, mediante correo electrónico,
@@ -4283,7 +4283,7 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 Fomento del día de inicio de la respectiva convocatoria.
 En caso de que las ventas estén expresadas en moneda extranjera, se
 estará al tipo de cambio observado por el Banco Central de Chile, a la
-fecha de inicio      de la respectiva convocatoria
+fecha de inicio de la respectiva convocatoria
 
 Una vez recibidos los antecedentes técnicos de formalización, Corfo
 realizará su análisis, pudiendo solicitar, mediante correo electrónico,
@@ -4331,14 +4331,14 @@ se encuentre al día en el cumplimiento de la obligación de rendir cuenta
 respecto de cualquiera de los proyectos cofinanciados por Corfo y/o sus
 Comités y certificará dicha circunstancia.
 
-Por último, se dejará constancia de la existencia de otros convenios que      el
+Por último, se dejará constancia de la existencia de otros convenios que el
 beneficiario haya suscrito con Corfo, y que se encuentren vigentes.
 
 8.2. Situaciones Especiales.
 
 Respecto de proyectos cuyo líder de equipo no resida en Chile, y en caso que
-al momento de la formalización      exista un estado de excepción decretado
-por la República de Chile  que le impida ingresar al territorio de la República
+al momento de la formalización exista un estado de excepción decretado
+por la República de Chile que le impida ingresar al territorio de la República
 de Chile en cumplimiento de lo establecido en el número 4 de las bases, se
 ponderará la necesidad de persistir en la formalización del proyecto, en mérito
 del análisis que realice Corfo sobre la relevancia de las soluciones del proyecto
@@ -4349,7 +4349,7 @@ En mérito de lo anterior, Corfo podrá, excepcionalmente, permitir la
 formalización e inicio de determinados proyectos, acordándose el reembolso
 del subsidio contra la aprobación, a satisfacción de Corfo, de la rendición de
 los gastos derivados de la ejecución de las actividades del proyecto, debiendo
-el      beneficiario ingresar a Chile en cuanto sea posible, una vez que se permita
+el beneficiario ingresar a Chile en cuanto sea posible, una vez que se permita
 el ingreso de extranjeros al territorio nacional.
 0992F9E9-C703-4C57-929A-469497D23225
 Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/VisualizadorFirmaElectronica/Modules/Validador/ValidacionDocumento.aspx
@@ -4361,9 +4361,9 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 En estos casos, si habiéndose aprobado la rendición de cuentas a satisfacción
 de Corfo, se decrete o persistiere el cierre temporal de lugares habilitados para
 el ingreso y egreso de extranjeros, se procederá al reembolso en la cuenta
-bancaria individualizada por      el      beneficiario. Por el contrario, en caso de
+bancaria individualizada por el beneficiario. Por el contrario, en caso de
 que se encuentren habilitados los lugares para el ingreso y egreso de
-extranjeros a Chile y, en consecuencia,      el      beneficiario puede ingresar al
+extranjeros a Chile y, en consecuencia, el beneficiario puede ingresar al
 país al momento de aprobarse la rendición de cuentas, sólo se procederá al
 reembolso del subsidio, una vez que el beneficiario ingrese a Chile en
 cumplimiento de lo establecido en el número 4 de las bases.
@@ -4374,11 +4374,11 @@ incumplimiento de dichas condiciones no dará lugar a indemnización o
 reembolso del subsidio, algunos.
 
 Para efectos de ejecutar las actividades del proyecto en Chile durante el plazo
-de ejecución del proyecto,      el      beneficiario designará un mandatario que
+de ejecución del proyecto, el beneficiario designará un mandatario que
 se encuentre dentro del territorio de la República de Chile, con atribuciones
 suficientes, con la finalidad de generar impacto en el país, hasta que sea
-posible el ingreso      del      beneficiario a territorio nacional. Sin perjuicio de lo
-anterior, y durante dicho período,      el      beneficiario deberá participar de
+posible el ingreso del beneficiario a territorio nacional. Sin perjuicio de lo
+anterior, y durante dicho período, el beneficiario deberá participar de
 forma remota de las actividades de aceleración objeto del instrumento de
 financiamiento.
 
@@ -4461,7 +4461,7 @@ d) La presentación de los antecedentes que acrediten que el
 beneficiario persona natural o líder del equipo que corresponda a
 una persona natural extranjera, dispone de Visa de Residencia. En
 caso de que se rechace la Visa de Residencia Temporaria4 respecto
-del      beneficiario persona natural o del/ de la líder del equipo, se
+del beneficiario persona natural o del/ de la líder del equipo, se
 tendrá por desistida la postulación o se dará término anticipado al
 proyecto, según corresponda.
 e) Que el/la beneficiario/a persona natural no tenga inscripción vigente
@@ -4474,7 +4474,7 @@ Para la modalidad de entrega del subsidio a título de anticipo, Corfo
 hará entrega de la cuota inicial o única cuota, una vez verificadas las
 condiciones señaladas. La entrega de las cuotas siguientes, si
 correspondiere, se encontrará supeditada, al menos, al cumplimiento
-de las condiciones señaladas en las letras b), en su caso,      c) y      e)
+de las condiciones señaladas en las letras b), en su caso, c) y e)
 anteriores, y a la aprobación de informes de avance que den cuenta de
 las actividades realizadas y de la entrega de la rendición de cuentas de
 los recursos previamente transferidos.
@@ -4537,7 +4537,7 @@ garantizar el total de los montos de los recursos anticipados
 correspondientes al Overhead. La glosa de dicho instrumento de
 garantía, en caso que por su naturaleza la contemple, deberá expresar
 que su objetivo consiste en “garantizar el correcto uso del anticipo
-otorgado por Corfo para la prestación,      al      beneficiario, de los
+otorgado por Corfo para la prestación, al beneficiario, de los
 servicios de disposición de infraestructura supervisión, seguimiento y
 administración del proyecto (señalando la denominación del proyecto
 y su código)”, debiendo tener una vigencia de por lo menos 25
@@ -4560,7 +4560,7 @@ señaladas en el numeral 11.4.2 siguiente.
 
 Los documentos de garantía deberán entregarse dentro del plazo de
 30 días, contados desde su requerimiento por parte de Corfo. Antes de
-la fecha de vencimiento de este plazo,      el      Beneficiario podrá solicitar
+la fecha de vencimiento de este plazo, el Beneficiario podrá solicitar
 fundadamente a Corfo prórroga de hasta 30 días.
 
 Si transcurridos los plazos señalados o su prórroga, no se ha
@@ -4683,7 +4683,7 @@ validación técnica por parte de Corfo.
 
 d) Gastos de administración (Overhead): Esta cuenta contempla,
 exclusivamente, el pago que realizará directamente Corfo a la Entidad
-Patrocinadora en base a los servicios prestados a      el      Beneficiario, por
+Patrocinadora en base a los servicios prestados a el Beneficiario, por
 concepto de disposición de infraestructura, supervisión, seguimiento y
 administración del proyecto.
 
@@ -4754,7 +4754,7 @@ descritas en los informes corresponden a la realidad, y para verificar el
 correcto uso de los recursos del subsidio y la materialización de los aportes
 comprometidos.
 
-Para lo anterior,      el      beneficiario deberá ceñirse a lo dispuesto en las bases
+Para lo anterior, el beneficiario deberá ceñirse a lo dispuesto en las bases
 técnicas, a las instrucciones operativas que Corfo entregue al respecto, y
 cumplir con lo siguiente:
 
@@ -4801,7 +4801,7 @@ características de dicho proyecto, las actividades de éste, los resultados y s
 propia disponibilidad presupuestaria.
 
 El número y calendario de los informes, podrá ser modificado por Corfo de
-oficio o previa solicitud fundada      del      beneficiario o intermediario, remitida
+oficio o previa solicitud fundada del beneficiario o intermediario, remitida
 antes del respectivo vencimiento del plazo de entrega.
 
 Corfo podrá solicitar informes de avance extraordinarios en todo momento, y
@@ -4815,7 +4815,7 @@ corresponda.
 
 Ante la solicitud de antecedentes, modificación o complementación de los
 informes por parte de Corfo, el beneficiario deberá cumplir tal requerimiento
-dentro de los 10 días siguientes. Una vez que se hayan entregado por      el
+dentro de los 10 días siguientes. Una vez que se hayan entregado por el
 beneficiario, todos los antecedentes, modificaciones o complementaciones
 solicitadas, o bien, se haya vencido el último término concedido al efecto,
 Corfo resolverá en definitiva dentro del plazo de 45 días.
@@ -4833,7 +4833,7 @@ corresponda, de acuerdo con las reglas establecidas en el subnumeral 14.3.2
 de estas bases.
 
 Asimismo, Corfo se reserva el derecho de verificar que la información técnica
-y legal declarada y/o presentada por      el      beneficiario en los informes y/o
+y legal declarada y/o presentada por el beneficiario en los informes y/o
 revisada en mérito de sus labores propias de seguimiento, sea efectiva. En el
 caso de que se verifique fundadamente alguna disconformidad grave, además
 de ejercer acciones correctivas, Corfo podrá suspender la entrega del subsidio
@@ -4848,7 +4848,7 @@ Corfo lo dispone. Los lugares, medios, fechas y horas de dichas
 presentaciones serán oportunamente informados por Corfo, con una
 anticipación no inferior a 7 días hábiles anteriores a la fecha de su realización.
 Asimismo, en dicha oportunidad, se indicarán los requisitos, contenidos y
-formato de la presentación misma. En caso de que      el      beneficiario no
+formato de la presentación misma. En caso de que el beneficiario no
 realice su presentación, o la misma no cumpla con las indicaciones
 comunicadas, se podrá dar término anticipado al convenio.
 
@@ -4877,9 +4877,9 @@ del avance y ejecución del proyecto, del cumplimiento de las obligaciones
 del beneficiario y/o demás participantes y de su disponibilidad presupuestaria.
 
 Corfo, en todo momento, podrá suspender la entrega de recursos del subsidio,
-si constata que el proyecto no se desarrolla satisfactoriamente o que      el
+si constata que el proyecto no se desarrolla satisfactoriamente o que el
 beneficiario y/o participantes han incumplido total o parcialmente sus
-obligaciones. Del mismo modo, Corfo podrá ordenar al           beneficiario que
+obligaciones. Del mismo modo, Corfo podrá ordenar al beneficiario que
 se abstenga de seguir efectuando gastos con cargo al subsidio entregado. En
 tal caso, se podrán aceptar gastos asociados a actividades realizadas, en las
 condiciones y hasta la fecha indicada en la comunicación de dicha orden.
@@ -4960,7 +4960,7 @@ mayor costo que pudiere tener el proyecto respecto de lo calculado, en
 orden a dar cumplimiento a lo establecido en el mismo.
 
 Asimismo, si el costo efectivo del proyecto fuere menor que el costo
-total presupuestado al momento de su aprobación,      el      Beneficiario
+total presupuestado al momento de su aprobación, el Beneficiario
 deberá restituir el monto del subsidio que exceda del porcentaje de
 cofinanciamiento aprobado por la autoridad u órgano decisor,
 calculado sobre dicho costo efectivo, de manera tal que siempre se
@@ -4976,7 +4976,7 @@ Los recursos del subsidio no podrán utilizarse para financiar:
 ● Inversiones en el Mercado de Capitales, tales como compra de
 acciones, depósitos a plazo en moneda nacional o extranjera,
 fondos mutuos, deudas (capital más intereses) o dividendos.
-● Impuestos recuperados por      el      Beneficiario.
+● Impuestos recuperados por el Beneficiario.
 ● Inversiones en bienes de capital no determinantes, a juicio de
 Corfo, para el proyecto.
 ● Adquisición de inmuebles.
@@ -5034,7 +5034,7 @@ singularizados en la postulación o desde que Corfo haya autorizado su
 incorporación o sustitución. Asimismo, en caso de un proyecto con un
 beneficiario persona natural, se aceptarán gastos de una Empresa
 Individual de Responsabilidad Limitada (E.I.R.L.), cuyo constituyente
-corresponda a el beneficiario, o de una sociedad en la cual      el
+corresponda a el beneficiario, o de una sociedad en la cual el
 beneficiario tenga una participación directa o indirecta en, al menos, el
 10% del capital social, y que, además:
 
@@ -5094,7 +5094,7 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 
 64
 
-por Corfo. Para este efecto,      el      beneficiario deberá presentar a
+por Corfo. Para este efecto, el beneficiario deberá presentar a
 Corfo 3 cotizaciones de los proveedores respectivos. Corfo, en casos
 fundados, podrá autorizar la adquisición o contratación con dos
 cotizaciones o sin cotizaciones previas.
@@ -5106,7 +5106,7 @@ Si habiéndose efectuado oportunamente las 3 cotizaciones, no se
 hubiere solicitado autorización previa, Corfo sólo reconocerá la
 cotización de menor valor.
 
-Corfo rechazará el gasto en caso de que      el      beneficiario no hubiere
+Corfo rechazará el gasto en caso de que el beneficiario no hubiere
 solicitado autorización, ni haya efectuado las 3 cotizaciones previas.
 
 11.5.2. Adquisiciones y Contrataciones con Personas Relacionadas.
@@ -5209,14 +5209,14 @@ tramitación que corresponda.
 
 11.8. Suspensión de la Ejecución de un Proyecto.
 
-Corfo podrá suspender por periodos determinados, de oficio o a petición      del
+Corfo podrá suspender por periodos determinados, de oficio o a petición del
 beneficiario, el plazo de ejecución de las actividades del proyecto, en caso de
 producirse circunstancias graves, de carácter transitorio, que impidan su
 normal desarrollo.
 
 En caso de solicitud del beneficiario, deberán acompañarse los antecedentes
 que la justifican. Corfo analizará su pertinencia y se pronunciará al respecto
-comunicando su decisión al      beneficiario.
+comunicando su decisión al beneficiario.
 
 En total, las suspensiones del plazo de ejecución del proyecto no podrán
 exceder de la mitad del plazo originalmente aprobado. De esta manera, un
@@ -5224,7 +5224,7 @@ proyecto cuya duración sea de 12 meses, podrá ser suspendido, en total,
 hasta por 6 meses.
 
 Autorizada la suspensión, Corfo, al momento de la rendición, rechazará
-cualquier gasto efectuado con cargo al subsidio durante este período. Si      el
+cualquier gasto efectuado con cargo al subsidio durante este período. Si el
 beneficiario realizare gastos con cargo a su aporte, éstos deberán
 corresponder a necesidades ordinarias y que tengan por finalidad el desarrollo
 normal del proyecto.
@@ -5246,7 +5246,7 @@ Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/Visualizad
 66
 
 disponer expresamente que determinados capítulos o apartados sean de público
-conocimiento desde el momento de su entrega, siendo responsabilidad de      los
+conocimiento desde el momento de su entrega, siendo responsabilidad de los
 beneficiarios no incluir información de carácter confidencial, o datos personales o
 sensibles en los referidos campos.
 
@@ -5276,7 +5276,7 @@ Corfo para desestimar la continuación del proyecto, poniendo término anticipad
 convenio, de acuerdo con las reglas establecidas en el subnumeral 14.3.2 de estas
 bases.
 
-Con posterioridad al término del proyecto, y durante un período de cinco años,      el
+Con posterioridad al término del proyecto, y durante un período de cinco años, el
 beneficiario se obliga a responder encuestas, remitir informes y proporcionar
 cualquier otra información sobre los resultados intermedios, finales o impactos del
 proyecto, cuando sea solicitado por Corfo, directamente o a través de un tercero.
@@ -5344,17 +5344,17 @@ señala:
 beneficiario:
 
 Corfo podrá poner término anticipado, sea por su propia iniciativa o a
-solicitud      del      beneficiario y, en las siguientes situaciones:
+solicitud del beneficiario y, en las siguientes situaciones:
 
 a) Incumplimiento de los resultados críticos o hitos de continuidad
 establecidos para el proyecto, por causa no imputable a la falta de
-diligencia del           beneficiario, calificada debidamente por Corfo.
+diligencia del beneficiario, calificada debidamente por Corfo.
 b) Por haber llegado a la convicción de que el proyecto no alcanzará
 los resultados esperados, no podrá ejecutarse dentro de parámetros
-razonables, o que      el      beneficiario y/o asociado no podrá enterar
+razonables, o que el beneficiario y/o asociado no podrá enterar
 la parte del aporte de su responsabilidad, por causa no imputable a
 su falta de diligencia, calificada debidamente por Corfo.
-c) Otras causas no imputables a la falta de diligencia del      beneficiario
+c) Otras causas no imputables a la falta de diligencia del beneficiario
 en el desempeño de sus actividades relacionadas con el proyecto,
 calificadas debidamente por Corfo.
 
@@ -5408,14 +5408,14 @@ determinación lo dispuesto en el referido subnumeral 11.4.2.
 beneficiario:
 
 Corfo podrá poner término anticipado al proyecto, concluido o no el
-plazo de ejecución de éste, en caso de que      el      beneficiario incumpla
+plazo de ejecución de éste, en caso de que el beneficiario incumpla
 negligentemente o con falta de la diligencia debida sus obligaciones.
 Constituyen incumplimiento culpable las siguientes situaciones:
 
 a) Negar o dificultar labores de seguimiento.
 b) Negligencia en las labores de control financiero y técnico de las
 actividades.
-c) No informar      el      beneficiario oportunamente a Corfo, de acuerdo
+c) No informar el beneficiario oportunamente a Corfo, de acuerdo
 con lo señalado en el subnumeral 11.3 de estas bases, y proponer
 el término anticipado del proyecto, por haber llegado a la convicción
 de que éste no alcanzará los resultados esperados; no podrá
@@ -5426,10 +5426,10 @@ d) Disconformidad grave entre la información técnica y/o legal
 declarada, y la efectiva.
 e) Incumplimiento de los resultados críticos o hitos de continuidad
 establecidos para el proyecto, por causa imputable a la falta de
-diligencia      del      beneficiario, calificada debidamente por Corfo.
+diligencia del beneficiario, calificada debidamente por Corfo.
 f) Por haber llegado a la convicción de que el proyecto no alcanzará
 los resultados esperados, no podrá ejecutarse dentro de parámetros
-razonables, o que      el      beneficiario y/o asociado no podrá enterar
+razonables, o que el beneficiario y/o asociado no podrá enterar
 la parte del aporte de su responsabilidad, por causa imputable a la
 falta de diligencia del beneficiario, calificada debidamente por Corfo.
 g) En las rendiciones:
@@ -5439,11 +5439,11 @@ proyecto o con otros financiados con recursos públicos.
 ● Valoración de gastos por sobre el valor de mercado.
 ● Documentos contables (tales como facturas, boletas, notas de
 crédito o débito) falsos o adulterados.
-h) Otras causas imputables a la falta de diligencia      del      beneficiario
+h) Otras causas imputables a la falta de diligencia del beneficiario
 en el desempeño de sus actividades relacionadas con el proyecto,
 calificadas debidamente por Corfo.
 
-En este caso,      el      beneficiario deberá restituir la totalidad del subsidio
+En este caso, el beneficiario deberá restituir la totalidad del subsidio
 recibido (valor nominal) en el plazo que Corfo fije, el cual no podrá
 exceder, del tercer día hábil anterior al vencimiento de la garantía por
 anticipo que se encuentre en poder de la Corporación, y que se contará
@@ -5642,7 +5642,7 @@ pensiones, jubilaciones, asignaciones, devoluciones o imputaciones indebidas”.
 
 Otorgada en [lugar] a [día] de [mes] de [año].
 
-     FIRMA DEL (DE LOS) REPRESENTANTE(S)
+FIRMA DEL (DE LOS) REPRESENTANTE(S)
 
 0992F9E9-C703-4C57-929A-469497D23225
 Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/VisualizadorFirmaElectronica/Modules/Validador/ValidacionDocumento.aspx
@@ -5736,7 +5736,7 @@ Código Penal.
 
 Otorgada en [lugar] a [día] de [mes] de [año].
 
-    FIRMA DEL/DE LA DECLARANTE
+FIRMA DEL/DE LA DECLARANTE
 
 0992F9E9-C703-4C57-929A-469497D23225
 Verifique la validez de este documento en : http://wwwe1.corfo.cl/GOS/VisualizadorFirmaElectronica/Modules/Validador/ValidacionDocumento.aspx
