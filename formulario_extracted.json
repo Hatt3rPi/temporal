@@ -1,0 +1,1347 @@
+[
+  {
+    "text": "Start-Up Chile",
+    "is_orange": false,
+    "style": "Title"
+  },
+  {
+    "text": "Formulario de Aplicación",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Generación 2026",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Información de la Startup",
+    "is_orange": false,
+    "style": "Heading 1"
+  },
+  {
+    "text": "High-Level Concept Pitch (Presenta tu Startup en 7 palabras) *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Evita eslóganes y enfócate en palabras clave descriptivas. Por ejemplo (inspirado en Slack): \"Plataforma de comunicación de equipos con salas de chat persistentes.\"",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Erick:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Cuentos personalizados con IA para crianza respetuosa",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Aventuras personalizadas donde niños aprenden leyendo sin notarlo",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Descripción Pública *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Esto se publicará al ser aceptado en el programa.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Erick:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería es una plataforma web impulsada por inteligencia artificial que transforma imágenes y contextos en cuentos educativos personalizados para niños y pacientes. Su objetivo es acompañar la crianza respetuosa y fortalecer la educación emocional a través de historias hechas a medida.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El sistema convierte las imágenes cargadas por el usuario en caricaturas del propio niño o niña, integrándose en el relato para que sean los protagonistas de una narrativa diseñada desde principios de educación emocional, validados en colaboración con terapeutas especializados en crianza respetuosa.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El resultado es un libro digital ilustrado de alta calidad, generado en minutos y disponible para descarga en formato PDF.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería convierte la lectura en una experiencia de vínculo, aprendizaje y crecimiento emocional, promoviendo conexiones significativas y el desarrollo de habilidades socioemocionales.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería usa IA para crear cuentos personalizados donde los niños son los héroes de sus propias aventuras. Mientras disfrutan historias que piden leer una y otra vez, aprenden a manejar emociones, resolver conflictos y desarrollar empatía de forma natural. Democratizamos el acceso a educación emocional de calidad, generando en minutos lo que antes costaba cientos de dólares y semanas de espera.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Objetivo principal del proyecto *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "En términos generales, describe lo que esperas lograr durante el programa.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Nuestro objetivo principal es validar y escalar nuestro modelo de negocio en Chile mientras refinamos nuestro producto con retroalimentación real de usuarios",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Validación comercial: Alcanzar al menos 500 usuarios activos y validar la disposición de pago en el mercado chileno, el costo unitario es de aproximadamente $4.000 pesos chilenos. Estimamos un precio de venta entre los $6.000 a $10.000 pesos chilenos, considerando el siguiente benchmark. 1) Wonderbly (UK): $13.400 CLP por digital; 2Hooray Heroes (USA): $8.900 CLP por PDF.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Tracción y Crecimiento: Desarrollar alianzas estratégicas con instituciones educativas y terapeutas infantiles",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Desarrollo Tecnológico: Completar el MVP funcional de nuestra plataforma web, implementando el flujo completo de creación de personajes, generación de historias con IA, personalización visual, y sistema de checkout para productos digitales.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Nuestro objetivo principal es validar nuestra propuesta de valor y establecer las bases para un crecimiento sostenible. Durante los 4 meses del programa buscamos: (1) Validar tracción real con 50-100 familias pagadoras mediante pruebas estructuradas y feedback cualitativo sobre valor percibido y disposición a pagar, (2) Desarrollar capacidad de adquisición implementando campañas de Meta Ads y contenido orgánico en Instagram para identificar canales de conversión efectivos, (3) Establecer primeras alianzas con 3-5 influencers de crianza y maternidad en Chile para amplificar alcance y credibilidad, (4) Definir modelo de ingresos validado testeando al menos 2 estructuras de pricing con métricas claras (CAC, tasa de conversión, retención a 30 días), y (5) Construir red en el ecosistema startup chileno que apoye nuestro aprendizaje y próximos pasos de crecimiento.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Hace cuánto tiempo comenzaste el desarrollo comercial de tu producto/servicio? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Indica cuándo comenzaste a validar tu solución en el mercado mediante pruebas, pilotos con usuarios potenciales o clientes, y ventas—no la fecha en que concebiste la idea. Si aún no has comenzado el desarrollo comercial de tu producto o servicio, ingresa la fecha actual.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Formato de fecha: dd/MM/yyyy",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "01/06/2025",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿En qué fase de desarrollo se encuentra tu startup? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Concepto: Tienes un enfoque inicial del problema que quieres resolver y una primera conceptualización de la solución.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Desarrollando el prototipo: Tienes insights de clientes potenciales y estás desarrollando el MVP o prototipo basado en esos insights.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Prototipo pivoteando con usuarios/clientes: Ya tienes un MVP o prototipo y estás iterando basado en feedback o ventas iniciales.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Producto funcional con usuarios/clientes: Tienes un producto que está ganando tracción y generando ventas.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Escalando ventas: Has estado ejecutando tu modelo de negocio con tracción consistente y ventas en crecimiento.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Dónde está la sede de tu startup? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Chile - Región Metropolitana, Santiago",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu startup opera actualmente en algún otro país? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Para considerarse como \"operando en un país,\" debes cumplir al menos uno de los siguientes criterios: tener más de 500 usuarios, generar más de $1.000 USD en ingresos, o tener empleados o una oficina comercial en ese país específico.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿En qué región(es) de Chile tendrá impacto tu proyecto? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Todas las regiones - Como plataforma 100% digital, nuestro servicio es accesible a nivel nacional.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "(Erick) Por que? si es un libro digital. yo iria a todo chile",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu startup tiene actualmente alguno de los siguientes elementos de presencia online? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Un perfil de LinkedIn",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Una página de Facebook",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Un perfil de Crunchbase",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿En qué industria principal opera tu negocio? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Industria: Educación / Subcategoría: Tecnología Educativa (EdTech)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El producto tiene un propósito educativo claro (crianza respetuosa, educación emocional, refuerzo conductual)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Uso de tecnología (IA) para entregar educación",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Público objetivo busca herramientas educativas, no solo entretenimiento",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿En qué categoría de industria secundaria opera también tu negocio? (Opcional)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Industria: Tecnología / Subcategoría: Inteligencia Artificial y Aprendizaje Automático",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Categoria Secundaria: Tecnologia",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "E diferenciador clave es el uso de IA para generar contenido personalizado",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El uso de IA es el motor tecnológico que hace posible la escalabilidad",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Demuestra innovación tecnológica",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuál es la tecnología principal detrás de tu producto o servicio? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Tecnología Principal: Inteligencia Artificial (IA) / Subcategorías: Procesamiento de Lenguaje Natural (NLP), Visión por Computadora, IA Generativa",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuál es el tipo principal de modelo de negocio que estás persiguiendo? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Business-to-Business (B2B)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Business-to-Government (B2G)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Business-to-Business-to-Customer (B2B2C)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Nota: Aunque nuestro modelo principal es B2C (familias y terapeutas), también tenemos potencial B2B con instituciones educativas y terapeutas como segmentos secundarios.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Ya has levantado capital para esta startup? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No - Esta es una startup bootstrapped financiada por los fundadores.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu startup ha participado alguna vez en un programa de aceleradora/incubadora? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿La startup o proyecto ha recibido alguna vez financiamiento de Corfo? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¡ADVERTENCIA! Debes declarar todo financiamiento previo otorgado a la startup o proyecto por Corfo. Si alguno de estos fondos está actualmente activo o en ejecución, podrías ser inelegible para la selección o incapaz de formalizar el proyecto si eres seleccionado.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu proyecto es una empresa de consultoría? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Una empresa de consultoría es una firma de servicios profesionales que proporciona asesoramiento experto y soluciones a empresas o individuos por una tarifa.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No - Somos una empresa de tecnología basada en producto, no una firma de consultoría.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu proyecto es una franquicia de una empresa existente? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Una empresa franquiciada es un acuerdo de licencia que permite a alguien operar un negocio bajo una marca establecida.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No - La Cuentería es una startup original, desarrollada independientemente.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu startup contribuye a alguno de los Objetivos de Desarrollo Sostenible de la ONU? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Elige todos los que apliquen. Para más información visita https://sdgs.un.org/goals",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 1: No poverty",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 2: Zero hunger (No hunger)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 6: Clean water and sanitation",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 7: Affordable and clean energy",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 8: Decent work and economic growth",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 9: Industry, Innovation and Infrastructure y este?",
+    "is_orange": true,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 11: Sustainable cities and communities",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 12: Responsible consumption and production",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 13: Climate action",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 14: Life below water",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 15: Life on land",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 16: Peace, justice and strong institutions",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Goal 17: Partnership for the goals",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "None of the above",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Descripción de la Startup",
+    "is_orange": false,
+    "style": "Heading 1"
+  },
+  {
+    "text": "Video pitch online (90 segundos) *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Envía un enlace a un video público (sin contraseña) en YouTube (no Shorts) o Vimeo, con la fecha de carga visible.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "[URL del video pitch por proporcionar]",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué problema está resolviendo tu startup? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Es un problema global o local? ¿Cómo se está abordando actualmente el problema? ¿Cuántas personas u organizaciones sufren de este problema?",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Las generaciones actuales, como los Millennials y la Generación Z, están evolucionando en su estilo de crianza, buscando enfoques más respetuosos y empáticos.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Sin embargo, muchas veces carecen de las herramientas necesarias para implementar efectivamente estas prácticas con sus hijos. De manera similar, los terapeutas que desean abordar temas específicos con sus pacientes a menudo no disponen de recursos accesibles y fáciles de usar, lo que los lleva a crear soluciones propias.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Así como los terapeutas concentran su trabajo en aspectos concretos de los pacientes, la crianza respetuosa se basa en el respeto, la empatía y la comprensión de las necesidades infantiles, evitando el uso de violencia o castigos.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No obstante, tanto padres como profesionales desconocen en muchas ocasiones cómo incorporar estas prácticas de manera práctica y efectiva en diferentes situaciones cotidianas. Los recursos disponibles, en su mayoría, son genéricos y poco adaptados a la realidad individual de cada niño, lo que limita su impacto para generar aprendizajes significativos y reforzar conductas positivas de manera efectiva.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Este problema afecta a una gran cantidad de padres interesados en aplicar este estilo de crianza, quienes según Sence en 2024 suman aproximadamente 6.741.625. En el caso de los terapeutas, el total es de 10.224, según la Superintendencia de Salud en 2021.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Miles de familias en Chile buscan herramientas prácticas para acompañar el desarrollo emocional de sus hijos en situaciones cotidianas como manejo de frustración, miedos, celos entre hermanos o establecimiento de límites. Aunque existe creciente conciencia sobre la importancia de la educación socioemocional, los padres encuentran una brecha entre teoría y práctica: los recursos disponibles suelen ser genéricos, poco adaptados a la realidad específica de cada niño, o difíciles de aplicar en el día a día.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Además, existe un desafío adicional de engagement: las herramientas educativas necesitan ser atractivas para los niños para ser efectivas. Si un niño no disfruta el material, es difícil que el aprendizaje sea significativo. Los padres buscan recursos que sus hijos realmente quieran usar, no solo toleren.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Actualmente, las alternativas disponibles tienen limitaciones:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "(1) Libros tradicionales de educación emocional ofrecen contenido validado pero genérico, sin personalización a la situación específica del niño, (2) Servicios internacionales de libros personalizados (como Wonderbly o Hooray Heroes) personalizan la apariencia pero son costosos ($50-100 USD), tienen tiempos de entrega largos (2-4 semanas) y generalmente carecen de enfoque educativo específico, (3) Terapeutas infantiles pueden crear materiales personalizados de alta calidad pero es un proceso que consume tiempo y tiene costos elevados, (4) Herramientas de IA genéricas permiten crear contenido rápidamente pero sin garantía de calidad educativa, apropiación del contenido, o atractivo para el niño.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "En Chile, 1.5-1.7 millones de niños de 2-8 años podrían beneficiarse de herramientas de educación emocional más accesibles y personalizadas. En LATAM hispanohablante, el mercado potencial alcanza 40-50 millones de niños. La oportunidad está en combinar tecnología de IA con principios de educación emocional validados para crear contenido que sea simultáneamente personalizado, educativo, accesible y genuinamente atractivo para los niños.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuál es tu producto o servicio, y cómo resuelve el problema? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué estás ofreciendo? ¿Qué lo hace nuevo o innovador? ¿Cómo crea valor para tus clientes?",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería es una plataforma web impulsada por inteligencia artificial que transforma imágenes y contextos en cuentos educativos personalizados para niños y pacientes. Su objetivo es acompañar la crianza respetuosa y fortalecer la educación emocional a través de historias hechas a medida.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El sistema convierte las imágenes cargadas por el usuario en caricaturas del propio niño o niña, integrándolas en el relato para que sean los protagonistas de una narrativa diseñada desde principios de educación emocional, validados en colaboración con terapeutas especializados en crianza respetuosa.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El resultado es un libro digital ilustrado de alta calidad, generado en minutos y disponible para descarga en formato PDF.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería convierte la lectura en una experiencia de vínculo, aprendizaje y crecimiento emocional, promoviendo conexiones significativas y el desarrollo de habilidades socioemocionales.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería es una plataforma web impulsada por inteligencia artificial que transforma fotografías de niños en cuentos educativos personalizados para el desarrollo socioemocional infantil.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Más que un generador de historias, es una herramienta de acompañamiento para padres, educadores y terapeutas, que permite crear relatos adaptados a situaciones reales: manejo de frustración y rabietas, superación de miedos, comprensión de celos entre hermanos, aprendizaje sobre límites, desarrollo de empatía y habilidades sociales.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El sistema convierte las imágenes cargadas por el usuario en ilustraciones donde el niño es el protagonista de la historia, integrándolas en narrativas construidas sobre principios de educación emocional validados. Incorporamos enfoques como crianza respetuosa, crianza positiva y desarrollo socioemocional, enfocándonos en validar emociones y modelar conductas positivas.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "NUESTRO ENFOQUE DIFERENCIADOR:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Creamos cuentos diseñados para ser genuinamente entretenidos desde la perspectiva del niño. El protagonista - el propio niño convertido en personaje - vive aventuras, enfrenta desafíos y descubre soluciones de forma natural. Los niños disfrutan verse como héroes de sus propias historias, mientras que los aprendizajes sobre manejo emocional y habilidades sociales se integran orgánicamente en la narrativa. La experiencia busca ser atractiva para el niño y útil para el padre, sin que el contenido educativo se sienta forzado o didáctico.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El resultado es un libro digital ilustrado de alta calidad, generado en minutos y disponible en formato PDF descargable o impreso con acabado editorial. La Cuentería busca hacer la educación emocional más accesible, personalizada y atractiva para las familias.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Elementos innovadores: (1) Personalización visual real usando fotos del niño, (2) Narrativas que priorizan el entretenimiento mientras integran contenido educativo validado, (3) Generación instantánea a precio accesible para mercado local (vs. alternativas internacionales de $50-100 USD que tardan semanas), (4) Biblioteca personal que crece con el niño y se adapta a diferentes desafíos de crianza.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuál es tu mercado objetivo? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Para quién es tu producto/servicio? ¿Cuáles son las características clave de las personas que enfrentan este problema? ¿Cuál es el tamaño estimado de tu mercado objetivo (en dinero)? Especifica el TAM, SAM, SOM en USD.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Perfil demográfico:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Edad: 28-42 años (Millennials) y 25-35 años (Gen Z)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Nivel socioeconómico: ABC1, C2 y C3",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Ubicación: Principalmente zonas urbanas de Chile (Santiago, Viña del Mar, Concepción, Valparaíso)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Con hijos entre 2-8 años de edad",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Ingreso familiar: $1.200.000+ mensuales",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Tamaño del mercado:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "TAM: 6.741.625 padres/madres en Chile (SENCE 2024)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "SAM: ~1.415.000 padres Millennials/Gen Z con acceso digital (30% del TAM)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "SOM (Año 1-3): 0.03% - 0.4% del SAM",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "SEGMENTO PRIMARIO (B2C):",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Familias con niños de 2-8 años, nivel socioeconómico medio-alto, que buscan herramientas de educación emocional y desarrollo socioemocional para sus hijos. En Chile: 1.5-1.7 millones de niños. Padres millennials y Gen Z que priorizan el bienestar emocional infantil y están dispuestos a invertir en herramientas educativas, incluyendo aquellos que practican crianza respetuosa, crianza positiva u otros enfoques de acompañamiento emocional.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "SEGMENTOS SECUNDARIOS:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "• INSTITUCIONAL (B2B Educación): 15,409 establecimientos educativos en Chile (jardines infantiles y colegios de educación básica) que requieren herramientas de educación socioemocional post-pandemia. El 25% de directores identifica esto como su desafío prioritario.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "• PROFESIONAL (B2B Salud Mental): +1,200 psicólogos infantiles y terapeutas que necesitan material terapéutico personalizado. Mercado en crecimiento acelerado: se duplicó en los últimos 8 años.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "ESTIMACIÓN DE TAMAÑO DE MERCADO (USD):",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "TAM (Mercado Total Direccionable) - LATAM hispanohablante:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "40-50 millones de niños de 2-8 años en LATAM × $50/año promedio por familia en contenido educativo = $2-2.5 mil millones USD anuales",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "SAM (Mercado Direccionable Serviceable) - Chile + mercados LATAM accesibles:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Chile (1.7M niños) + Colombia, Perú, Argentina (digitalmente accesibles): ~8M niños. Segmento objetivo (clase media-alta, tech-savvy): 40% = 3.2M niños = $160 millones USD anuales",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "SOM (Mercado Obtenible Serviceable) - Captura realista a 3 años:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Meta: 1% de penetración de mercado en 3 años = 32,000 familias × $30 USD promedio anual (3 cuentos/año) = $960,000 USD anuales para el Año 3",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Quiénes son tus competidores o sustitutos? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué tipos de negocios has identificado como tus principales competidores? ¿Dónde están ubicados? (Consejo: Todos los negocios tienen competidores o alternativas—evita decir que no tienes ninguno.)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "COMPETIDORES DIRECTOS (Libros Personalizados):  Wonderbly (Reino Unido) & Hooray Heroes (Global): - Libros físicos personalizados de alta calidad con el nombre y apariencia del niño - Debilidades: $50-100 USD por libro, 2-4 semanas de producción + envío internacional, narrativas predefinidas genéricas (solo personalización cosmética), sin enfoque en crianza respetuosa o educación emocional específica, sin versión digital instantánea, sin licencias institucionales  COMPETIDORES INDIRECTOS (Sustitutos):  ChatGPT y otras IAs Generativas Gratuitas: - Acceso gratuito, pueden generar texto de cuentos rápidamente - Debilidades: Sin ilustraciones personalizadas, sin almacenamiento organizado de cuentos, sin validación psicopedagógica del contenido, requiere habilidad del usuario para escribir buenos prompts, no incluye foto real del niño en las ilustraciones, sin formato de libro profesional, calidad y apropiación del contenido inconsistente  Libros Tradicionales de Educación Emocional: - Contenido validado por psicólogos, disponibles en librerías - Debilidades: Contenido genérico sin personalización a la situación del niño, el niño no es protagonista (menor identificación), no se adapta al contexto específico de cada familia, menor engagement emocional  Creación Manual por Terapeutas: - Totalmente personalizado, diseñado profesionalmente - Debilidades: Extremadamente costoso ($200-500 USD), muy lento (semanas/meses), no escalable, requiere encontrar y contratar un profesional",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué te diferencia de tus competidores? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Por qué tu producto o servicio es mejor o diferente? ¿Qué ventajas únicas ofreces? ¿Cómo superas las soluciones existentes?",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "1. ENTRETENIMIENTO INTEGRADO CON EDUCACIÓN:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Nuestro enfoque prioriza crear historias que los niños disfruten genuinamente, donde el aprendizaje emocional se integra de forma natural en la narrativa. El niño es el protagonista viviendo aventuras, enfrentando desafíos y descubriendo soluciones - elementos narrativos que generan engagement. Los contenidos educativos (validación de emociones, modelamiento de conductas) están tejidos en la historia de forma orgánica, no como lecciones explícitas. Creemos que el material educativo es más efectivo cuando el niño quiere interactuar con él voluntariamente, no cuando lo percibe como una obligación didáctica.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "2. PERSONALIZACIÓN INTEGRAL PARA EDUCACIÓN EMOCIONAL:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Somos una de las pocas plataformas que permite a familias crear su propia biblioteca de contenido educativo personalizado de forma accesible. Sin conocimientos técnicos, los padres pueden generar historias adaptadas a situaciones específicas: manejo de frustración, miedos particulares, dinámicas entre hermanos, aprendizaje de límites. Cada cuento incorpora principios de educación emocional (incluyendo crianza respetuosa y crianza positiva) adaptados al contexto del niño. Mientras otras alternativas personalizan principalmente aspectos cosméticos, nosotros personalizamos el propósito educativo y la situación específica que se quiere trabajar.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "3. ACCESIBILIDAD Y RAPIDEZ:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Generamos cuentos ilustrados completos en minutos a un precio diseñado para el mercado local. Esto contrasta con servicios internacionales que cobran $50-100 USD con tiempos de entrega de semanas. Para familias que necesitan abordar una situación emocional específica, la inmediatez importa. Nuestro sistema de IA especializado en educación emocional infantil mantiene coherencia narrativa y apropiación del contenido de forma automática, sin requerir que el padre sea experto en pedagogía o en escribir prompts. Esto reduce barreras de acceso a herramientas de educación emocional de calidad.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿El desarrollo de tu producto/servicio involucra I+D? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Investigación y Desarrollo (I+D) incluye actividades como pruebas de laboratorio, productos patentables, desarrollo de hardware, desarrollo de software y otros esfuerzos de innovación.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Sí - Nuestro producto involucra I+D significativo en desarrollo de software, particularmente en: - Modelos de IA personalizados para generar narrativas apropiadas para la edad y validadas emocionalmente - Algoritmos de visión por computadora para transformar fotos en personajes de caricatura preservando el parecido - Sistemas de procesamiento de lenguaje natural especializados en psicología infantil y educación emocional - Diseño de experiencia de usuario para hacer tecnología compleja de IA accesible a padres no técnicos",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu empresa tiene alguna propiedad intelectual (IP)? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Considera patentes, marcas registradas, derechos de autor, secretos comerciales, NDAs, secretos industriales, etc.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Sí - Actualmente tenemos:- Marca y logo registrados para 'La Cuentería'- Derechos de autor sobre nuestro software propietario y algoritmos- Secretos comerciales respecto a nuestras metodologías de entrenamiento de IA y marcos narrativos",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Actualmente no tenemos patentes pero podríamos buscarlas a medida que la tecnología se desarrolle más.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tienes un Producto Mínimo Viable (MVP) o prototipo? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Un Producto Mínimo Viable (MVP) o prototipo es la versión más simple de tu producto/servicio con suficientes características para atraer usuarios tempranos y validar tu concepto.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Sí - Tenemos un MVP funcional actualmente en pruebas beta. Nuestro MVP incluye: - Sistema de IA generando cuentos personalizados completos (texto + ilustraciones) - Flujo operativo completo: creación de perfiles, configuración de propósito educativo, selección de estilo visual y descarga de PDF - Cuentos generados exitosamente en pruebas internas - Actualmente en testing con usuarios 'friends & family' - Optimización continua de interfaz y experiencia de usuario  Estado de Desarrollo: BRL 5 - Experimentando con segmentos/canales, aprendizaje e iteraciones.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Mercado y Negocio",
+    "is_orange": false,
+    "style": "Heading 1"
+  },
+  {
+    "text": "Describe la tracción o validación que ha logrado tu startup. *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Destaca hitos clave como ventas, usuarios, pilotos, validación del MVP, o socios y clientes notables. Incluye cualquier esfuerzo para probar y validar tu producto con usuarios potenciales. Si aplica, menciona tracción tanto globalmente como en Chile.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "ESTADO ACTUAL: BRL 4-5 - MVP funcional, iniciando validación comercial\n\nMVP FUNCIONAL COMPLETADO:\n• Sistema de IA generando cuentos personalizados completos (texto + ilustraciones)\n• Flujo completo operativo: creación de perfiles, configuración de propósito educativo, selección de estilo visual y descarga de PDF\n• Plataforma web accesible y funcional\n• Cuentos generados exitosamente en pruebas internas\n\nVALIDACIÓN INICIAL:\n• Testing con grupo reducido de usuarios 'friends & family' (fase beta privada)\n• Retroalimentación cualitativa positiva sobre calidad narrativa y emocional\n• Iteraciones en curso basadas en feedback de primeros usuarios\n• Equipo actual: 3 personas trabajando en el proyecto\n\nHITOS INMEDIATOS (Próximos 4 meses con Start-Up Chile):\n• Integración de pasarela de pagos para habilitar ventas (Mes 1)\n• Primeras 50-100 ventas con usuarios fuera del círculo cercano (Meses 1-3)\n• Validación de canales de adquisición: Meta Ads + Instagram orgánico (Meses 2-3)\n• Establecimiento de métricas base: CAC, conversión, retención a 30 días (Mes 4)\n• Alianzas con 3-5 influencers de crianza en Chile (Meses 2-3)\n\nAPRENDIZAJES CLAVE BUSCADOS:\n• ¿Los padres están dispuestos a pagar por cuentos personalizados de educación emocional?\n• ¿Cuál es el pricing óptimo para el mercado chileno?\n• ¿Qué canales de adquisición son más efectivos y sostenibles?\n• ¿Cuál es el perfil exacto de nuestro early adopter?\n\nEl núcleo tecnológico está operativo. Start-Up Chile nos permitirá validar comercialmente el producto y construir bases para escalamiento futuro.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuál es tu modelo de ingresos? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cómo genera o generará dinero tu startup? ¿Cuáles son tus principales flujos de ingresos y estrategia de precios?",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "MODELO DE INGRESOS MIXTO:  1. ACCESO FREEMIUM: - Acceso gratuito a la plataforma para crear perfil y explorar - Permite a usuarios conocer el producto antes de pagar  2. PAGO POR CUENTO (Principal fuente de ingresos inicial): - Cuento Digital: ~$3-5 USD (CLP 3,000-5,000)   * 1 personaje personalizado   * Selección limitada de escenarios y emociones   * Formato PDF descargable - Cuento Físico: ~$15-20 USD (CLP 15,000-20,000)   * Todo lo del digital   * Impresión y acabado editorial   * Envío a domicilio  3. SISTEMA DE CRÉDITOS PREMIUM: - Paquetes de créditos para usuarios frecuentes - Acceso a opciones avanzadas: múltiples personajes, más escenarios, emociones adicionales, estilos visuales exclusivos - Descuentos por volumen  4. SUSCRIPCIÓN MENSUAL (Para usuarios de alto tráfico): - Generación ilimitada de cuentos digitales - Descuentos en impresión física - Acceso prioritario a nuevas funcionalidades - Precio: ~$10-15 USD/mes  5. LICENCIAS INSTITUCIONALES (B2B - Futuro): - Colegios y jardines infantiles - Consultorios de terapia infantil - Modelo de licencia anual por institución  ESTRATEGIA DE PRICING: - Precios accesibles para mercado chileno (no dólares internacionales) - Barrera de entrada baja para primeros usuarios - Monetización progresiva según uso y valor percibido",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Proporciona los valores más recientes de tus métricas clave (Unit Economics)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Pista: CAC, LTV, ARR, MRR, Burn Rate, u otras métricas relevantes. (Obligatorio para los programas Ignite y Growth)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "MÉTRICAS PROYECTADAS (Pre-comercialización - A validar en programa):\n\nHIPÓTESIS INICIALES basadas en benchmarks de EdTech B2C:\n\nCAC (Costo de Adquisición de Cliente):\n- Hipótesis: $5-10 USD en fase temprana (marketing digital, redes sociales)\n- A validar mediante: Campañas de Meta Ads y colaboraciones con influencers\n- Meta programa: Validar CAC real con datos de al menos 50 conversiones\n\nLTV (Valor de Vida del Cliente):\n- Hipótesis: $50-80 USD (año 1)\n- Supuestos a validar: 3-5 cuentos/año por familia, 40% retención\n- Meta programa: Validar comportamiento de compra y retención a 30 días\n\nPricing a Testear:\n- Digital: $3.990 - $4.990 CLP (~$4-5 USD)\n- Físico: $14.990 - $19.990 CLP (~$15-20 USD)\n- Pack 3 cuentos: $11.990 CLP (~$12 USD)\n\nBurn Rate Actual:\n- ~$2.000 USD/mes (infraestructura, APIs de IA, dominio)\n- Financiado por fundadores (bootstrapped)\n\nNOTA IMPORTANTE: Estas son hipótesis pre-comercialización. El objetivo del programa Start-Up Chile es validar o refutar estos supuestos con datos reales de mercado durante los 4 meses.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tu negocio ya tiene ventas? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No aún - Estamos en fase de testing beta con usuarios cercanos. Las primeras ventas comerciales están proyectadas para Q1 2025 tras finalizar validación del MVP con usuarios reales.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuáles son las principales incertidumbres asociadas con tu startup? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Considera desafíos potenciales como regulaciones de mercado, desarrollo tecnológico, capacidades del equipo, competencia, barreras de entrada y salida, o adopción por clientes.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "PRINCIPALES INCERTIDUMBRES:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "1. ADOPCIÓN Y CAMBIO DE COMPORTAMIENTO:- Incertidumbre: ¿Los padres estarán dispuestos a pagar regularmente por contenido educativo digital vs. compras únicas?- Mitigación: Modelo freemium + pricing accesible para reducir fricción, demostrar valor mediante pruebas gratuitas",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "2. COSTOS DE IA Y ESCALABILIDAD:- Incertidumbre: Los costos de APIs de IA podrían aumentar o la tecnología podría cambiar rápidamente- Mitigación: Diversificación de proveedores de IA, evaluación continua de alternativas, optimización de prompts para reducir costos",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "3. CALIDAD Y CONSISTENCIA DEL CONTENIDO:- Incertidumbre: Mantener estándares educativos altos a escala sin revisión manual exhaustiva- Mitigación: Sistemas de validación automática, feedback loop con usuarios, colaboración con psicólogos infantiles",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "4. COMPETENCIA DE GRANDES TECH:- Incertidumbre: Empresas grandes podrían desarrollar funcionalidades similares- Mitigación: Enfoque especializado en crianza respetuosa, construcción de comunidad fuerte, ventaja de first-mover en mercado hispanohablante",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "5. EDUCACIÓN DEL MERCADO:- Incertidumbre: Mercado aún no familiarizado con el concepto de \"biblioteca educativa personalizada\"- Mitigación: Estrategia de contenido educativo, marketing de contenido, partnerships con influencers de crianza respetuosa",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "6. REGULACIONES DE PROTECCIÓN DE DATOS INFANTILES:- Incertidumbre: Cambios en regulaciones sobre manejo de datos/imágenes de menores- Mitigación: Cumplimiento estricto desde día 1, transparencia total con padres, sistemas de seguridad robustos",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué partes de tus operaciones podrían limitar el crecimiento, y cómo planeas abordar estos desafíos? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Considera desafíos potenciales como regulaciones de mercado, desarrollo tecnológico, capacidades del equipo, competencia, barreras de entrada y salida, o adopción por clientes.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "LIMITANTES POTENCIALES Y ESTRATEGIAS:1. CAPACIDAD TÉCNICA DEL EQUIPO:- Limitante: Equipo pequeño de founders para desarrollar todas las funcionalidades- Solución: Priorización estricta de features (MVP lean), contratación estratégica de desarrolladores especializados en IA con fondos de Start-Up Chile, outsourcing puntual para tareas no-core2. COSTOS DE INFRAESTRUCTURA DE IA:- Limitante: Costos variables de APIs de IA podrían crecer más rápido que ingresos en fase temprana- Solución: Optimización continua de prompts y modelos, negociación de descuentos por volumen, evaluación de modelos open-source para reducir dependencia3. CONTROL DE CALIDAD A ESCALA:- Limitante: Revisar manualmente cada cuento es inviable a escala- Solución: Desarrollo de sistemas automáticos de validación de contenido, mecanismos de reporte y feedback de usuarios, auditorías periódicas por expertos en educación emocional4. ADQUISICIÓN Y RETENCIÓN DE CLIENTES:- Limitante: Canales de marketing limitados y costos de adquisición altos- Solución: Estrategia orgánica mediante contenido educativo (blog, redes sociales), partnerships con influencers de crianza, programas de referidos, community building5. DIFERENCIACIÓN SOSTENIBLE:- Limitante: Tecnología de IA es replicable por competidores con recursos- Solución: Construcción de marca fuerte en crianza respetuosa, desarrollo de comunidad leal, especialización en mercado hispanohablante, acumulación de datos de usuarios para mejorar personalizaciones6. CAPACIDAD DE SERVICIO AL CLIENTE:- Limitante: Soporte personalizado no escalable con equipo pequeño- Solución: Desarrollo de FAQs completas, chatbots para consultas comunes, tutoriales en video, comunidad de usuarios para peer support",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuál es tu estrategia de go-to-market? ¿Cómo planeas expandirte en los próximos cinco años? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Describe tu estrategia, base de clientes, mercados, eventos clave, hitos relevantes, desarrollo de producto, partnerships clave y expansión del equipo año por año. Sé tan detallado como sea posible.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "AÑO 1 (2025): VALIDACIÓN Y PRIMERAS VENTAS\n\nQ1 (Programa Start-Up Chile - 4 meses):\n- Mercado: Chile, Región Metropolitana\n- Meta clientes: 50-100 familias pagadoras\n- Meta ingresos: $2,000-5,000 USD\n- Producto: Integración de pagos, optimización UX, mejoras basadas en feedback\n- Marketing: Meta Ads iniciales ($500 presupuesto), Instagram orgánico (3-4 posts/semana), colaboraciones con 3-5 influencers\n- Equipo: 3 fundadores\n- Hitos críticos: Primeras 50 ventas reales, CAC y conversión validados, modelo de pricing definido\n\nQ2-Q4 (Post-programa):\n- Mercado: Expansión gradual dentro de Chile\n- Meta clientes: 500-1,000 familias activas acumuladas\n- Meta ingresos: $20,000-30,000 USD anuales\n- Producto: Funcionalidades adicionales basadas en aprendizajes Q1\n- Marketing: Escalar canales validados, programa de referidos\n- Equipo: 3 fundadores + posible contratación freelance\n- Hitos: Product-market fit inicial, NPS >40, preparación para fundraising",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tienes una estrategia de salida? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Sí - Tenemos tres escenarios potenciales de salida a evaluar en el horizonte 5-7 años:  1. ADQUISICIÓN ESTRATÉGICA (Escenario preferido): - Potenciales adquirentes: Grandes editoriales infantiles buscando transformación digital (ej. Santillana, SM), plataformas EdTech globales expandiéndose a LATAM (ej. Age of Learning, Khan Academy), o tech companies con foco en familia/educación (ej. Amazon Kids, Google for Education) - Timing: Años 5-7, una vez alcanzada escala regional y demostrada defensibilidad de mercado  2. CRECIMIENTO INDEPENDIENTE A LARGO PLAZO: - Convertir en empresa sostenible y rentable sin necesidad de exit - Financiamiento vía reinversión de utilidades - Mantener independencia y control sobre visión de producto  3. FUSIÓN CON COMPETIDOR COMPLEMENTARIO: - Alianza con plataforma educativa que no compita directamente pero tenga sinergia - Crear player dominante en educación emocional digital para LATAM. No consideramos exit antes de Año 5 para permitir construcción sólida de marca, comunidad y tecnología diferenciada.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Programa Start-Up Chile",
+    "is_orange": false,
+    "style": "Heading 1"
+  },
+  {
+    "text": "¿Por qué es importante el mercado chileno para el crecimiento de tu startup? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Es Chile un mercado clave para adopción, testeo o expansión? ¿Ofrece ventajas como financiamiento, regulaciones o talento?",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Chile es estratégicamente vital para La Cuentería por cuatro razones fundamentales:1. MERCADO IDEAL PARA VALIDACIÓN:Chile tiene una población urbana altamente conectada (96.5% de hogares con internet) con fuerte adopción de tecnología y servicios digitales. Los padres chilenos millennials y Gen Z buscan activamente recursos de crianza respetuosa, creando un mercado sofisticado y exigente perfecto para validar nuestro producto antes de expandir regionalmente.2. INFRAESTRUCTURA DE STARTUP ROBUSTA:El ecosistema de startups de Chile es el más maduro de LATAM, con acceso a programas como Start-Up Chile, red de mentores experimentados, y conexiones con inversionistas regionales. Esta infraestructura nos permite crecer más rápido y con mejor guidance que en otros mercados de la región.3. GATEWAY A LATINOAMÉRICA:Chile sirve como base ideal para expansión regional: comparte idioma y similitudes culturales con el resto de LATAM hispanohablante, tiene buena conectividad internacional, y es percibido como hub de innovación tecnológica, lo que facilita credibilidad al expandir a Colombia, Perú, Argentina y México.4. NECESIDAD REAL Y CRECIENTE:Post-pandemia, Chile enfrenta una crisis en educación socioemocional: 25% de directores escolares la identifican como prioridad #1, y la demanda de psicólogos infantiles se duplicó en 8 años. Existe una necesidad urgente y consciente que nuestro producto aborda directamente, asegurando product-market fit desde el inicio.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué impacto tendrá tu startup en Chile? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Describe cómo tu startup contribuirá a la economía, sociedad o industria de Chile.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "IMPACTO EN CHILE:1. DEMOCRATIZACIÓN DE EDUCACIÓN EMOCIONAL DE CALIDAD:Hacemos accesible a familias chilenas herramientas de crianza respetuosa que antes eran exclusivas de clases altas con acceso a terapeutas privados o productos importados caros. Reducimos la brecha de acceso a educación emocional de calidad en todo el país.2. APOYO AL BIENESTAR INFANTIL Y SALUD MENTAL:Contribuimos directamente a la salud mental de la próxima generación de chilenos. Al proporcionar herramientas que FUNCIONAN (porque los niños las disfrutan voluntariamente, no las resisten), ayudamos a validar emociones y establecer límites respetuosos de forma efectiva. Prevenimos problemas de conducta y salud mental que tienen un alto costo social y económico a largo plazo. Un niño que se ve como el héroe de historias que ama, internaliza esos aprendizajes de forma mucho más profunda que uno que es forzado a \"aprender una lección\".3. TRANSFORMACIÓN DE LA EXPERIENCIA DE LECTURA PARA NIÑOS CHILENOS:No solo ayudamos a padres - también creamos una experiencia MÁGICA para los niños. Imagina un niño que se ve a sí mismo como protagonista de aventuras emocionantes, que PIDE que le lean \"su cuento\" una y otra vez porque lo AMA. Esa es una relación completamente diferente con la lectura y el aprendizaje. Estamos formando una generación que asocia aprendizaje emocional con diversión, aventura y empoderamiento, no con aburrimiento o sermones.4. FORTALECIMIENTO DEL ECOSISTEMA EDTECH:Posicionamos a Chile como líder en innovación de tecnología educativa con IA aplicada a desarrollo socioemocional. Atraemos talento tech especializado en IA y educación, generando empleos de alta calidad y know-how transferible a otras startups.5. REDUCCIÓN DE CARGA EN SISTEMA EDUCATIVO:Proporcionamos herramientas complementarias que ayudan a colegios y jardines infantiles a abordar desafíos socioemocionales sin requerir recursos adicionales significativos. Apoyamos a educadores que están sobrecargados post-pandemia.6. IMPACTO ECONÓMICO DIRECTO:- Generación de empleo: proyectamos 15-20 empleos directos en Chile para año 4- Reducción de costos de salud mental infantil a largo plazo- Contribución a exportaciones de servicios digitales chilenos- Modelo replicable para otras startups de impacto social7. CAMBIO CULTURAL:Promovemos un cambio generacional hacia crianza más empática y respetuosa, contribuyendo a una sociedad más sana, con mejor manejo emocional y menos violencia intrafamiliar. Y lo hacemos de una manera que los NIÑOS disfrutan, no resisten.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Planeas establecer tu startup en Chile? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Sí",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "No",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Aún no lo sé",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué actividades principales planeas llevar a cabo durante el programa Start-Up Chile? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Lista 3 a 5 actividades relacionadas con áreas como validación del problema, desarrollo de producto, estrategia comercial o protección de IP. Puedes usar viñetas.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "ACTIVIDADES PRINCIPALES DURANTE EL PROGRAMA:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "VALIDACIÓN COMERCIAL CON USUARIOS REALES: Alcanzar 100+ familias pagadoras para validar willingness-to-pay, obtener feedback cualitativo profundo, y establecer métricas reales de CAC, LTV y retención. Iterar producto basado en comportamiento real de usuarios.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "DESARROLLO DE PARTNERSHIPS ESTRATÉGICOS: Establecer alianzas con 5-10 instituciones educativas (jardines infantiles, colegios) y 10-15 psicólogos/terapeutas infantiles para validar modelo B2B, obtener retroalimentación profesional sobre contenido educativo, y generar casos de éxito documentados.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "OPTIMIZACIÓN DE PRODUCTO Y TECNOLOGÍA: Refinar algoritmos de IA basado en feedback real, mejorar UX del flujo de creación de cuentos, desarrollar funcionalidades críticas (edición de cuentos, biblioteca personal, sistema de créditos), y optimizar costos operativos de infraestructura.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "CONSTRUCCIÓN DE MARCA Y COMUNIDAD: Crear estrategia de contenido educativo en redes sociales, establecer partnerships con influencers de crianza respetuosa, desarrollar comunidad de early adopters, y construir reconocimiento de marca en el nicho de crianza consciente.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "PREPARACIÓN PARA ESCALAMIENTO: Establecer procesos operativos escalables, definir estrategia de expansión a otras regiones de Chile y países LATAM, desarrollar roadmap de producto a 12 meses, y preparar pitch para siguiente ronda de financiamiento.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué esperas lograr al final del programa Start-Up Chile? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Al finalizar el programa Start-Up Chile esperamos haber alcanzado:MÉTRICAS CUANTITATIVAS:- 150-200 familias pagadoras activas- $15,000-20,000 USD en ingresos acumulados- CAC validado <$15 USD- LTV validado >$50 USD- NPS >40- 3-5 partnerships institucionales firmadosVALIDACIÓN DE PRODUCTO:- Product-market fit demostrado con métricas de retención y engagement- Retroalimentación sistemática de usuarios integrada en roadmap- Casos de éxito documentados (testimonios, caso de estudio)POSICIONAMIENTO Y RED:- Marca reconocida en comunidad de crianza respetuosa en Chile- Red de mentores, advisors y potenciales inversionistas- Alianzas estratégicas con influencers y organizaciones educativasPREPARACIÓN PARA ESCALA:- Procesos operativos probados y documentados- Equipo fortalecido (posible primera contratación)- Plan de expansión validado para siguientes 12-18 meses- Pitch deck refinado para próxima ronda de fundraising- Roadmap técnico claro para nuevas funcionalidadesCONOCIMIENTO Y CAPACIDADES:- Comprensión profunda del mercado chileno y latinoamericano- Expertise en go-to-market para productos EdTech B2C- Conexiones dentro del ecosistema startup de Chile y LATAM",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cómo financiarás tu porcentaje requerido de co-financiamiento? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Consulta la sección \"Subsidio Corfo para el Beneficiario\" en los Términos y Condiciones.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El co-financiamiento requerido será cubierto mediante:1. APORTES DE FUNDADORES (Principal fuente):- Recursos propios acumulados- Tiempo dedicado full-time al proyecto (valorizado como equity)- Infraestructura y equipamiento ya invertido2. INGRESOS OPERACIONALES:- Proyectamos ingresos tempranos de primeras ventas durante el programa- Estos ingresos se reinvierten directamente en el proyecto3. BOOTSTRAPPING EFICIENTE:- Minimización de gastos no esenciales- Uso de herramientas freemium y open-source donde sea posible- Trabajo remoto para reducir costos de oficina4. POSIBLE APOYO FAMILIAR LIMITADO:- Como respaldo secundario si fuera necesario para cubrir gaps puntualesLos fundadores estamos 100% comprometidos con el proyecto y dispuestos a aportar los recursos necesarios para cumplir con el co-financiamiento y asegurar el éxito del programa.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué beneficios buscas de Start-Up Chile? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Selecciona hasta tres beneficios clave que más te interesen:",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Justificación: Como startup digital en fase temprana, nuestras mayores necesidades son (1) entender profundamente el mercado local para lograr product-market fit, (2) guidance de mentores que han navegado el camino de escalamiento en LATAM, y (3) red de founders que enfrentan desafíos similares para apoyo mutuo y potenciales sinergias. El subsidio equity-free es valioso, pero el valor real está en el ecosistema y conocimiento.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Co-fundadores",
+    "is_orange": false,
+    "style": "Heading 1"
+  },
+  {
+    "text": "Los co-fundadores no incluyen al Team Leader. Puedes registrar hasta tres ejecutores en esta sección.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cuántos fundadores tiene la startup? (Excluyendo Team Leader) *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "1 persona",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Por qué tu equipo fundador es capaz de hacer tu startup exitosa? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Describe las habilidades complementarias, experiencia y logros pasados (técnicos, comerciales o académicos) de los fundadores que los hacen únicamente calificados para liderar este proyecto.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Nuestro equipo fundador combina experiencia técnica, visión de producto y comprensión profunda del problema que estamos resolviendo:FELIPE (Team Leader) - Business Analytics & Product:- 8+ años en análisis de negocios en sector financiero (Transbank, procesador de pagos líder en Chile)- Expertise en análisis de datos, modelamiento financiero y toma de decisiones estratégicas- Experiencia desarrollando productos digitales y validando modelos de negocio- Emprendedor en serie con múltiples proyectos tech- Comprensión profunda de go-to-market, pricing strategy y product-market fitCO-FOUNDER - [A completar con información real del co-founder]HABILIDADES COMPLEMENTARIAS:- Combinamos visión estratégica de negocio con ejecución técnica- Experiencia validada trabajando con data y tecnología en contextos exigentes- Mentalidad analítica para iterar rápido basado en métricas reales- Conexión personal con el problema: ambos somos o seremos padres comprometidos con crianza respetuosa- Red profesional en Chile que facilita partnerships inicialesEl equipo tiene el balance perfecto entre entender el mercado, ejecutar técnicamente, y la pasión personal por resolver un problema que viven o vivirán en primera persona.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Qué porcentaje del equity de tu startup es propiedad del equipo fundador? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "100% - El equity está 100% en manos de los fundadores. No hemos realizado rondas de inversión externas.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Team Leader y Equipo",
+    "is_orange": false,
+    "style": "Heading 1"
+  },
+  {
+    "text": "Team Leader",
+    "is_orange": false,
+    "style": "Heading 2"
+  },
+  {
+    "text": "¡RECUERDA! El Team Leader no puede ser cambiado una vez que se envíe el formulario de aplicación.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "[Las siguientes secciones requieren información personal específica del Team Leader que debe ser completada por Felipe directamente: LinkedIn URL, nivel educacional, institución, área de estudio, años de experiencia, rol en la startup, idiomas, porcentaje de tiempo dedicado, equity ownership, etc.]",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Describe la experiencia del Team Leader y su relevancia para esta startup. *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Felipe aporta 8+ años de experiencia en business analytics en Transbank, uno de los procesadores de pagos más importantes de Chile (45% market share). Durante este tiempo:- Analizó millones de transacciones para identificar patrones de comportamiento y oportunidades de negocio- Desarrolló modelos financieros complejos para evaluación de nuevos productos y estrategias- Trabajó en proyectos estratégicos como evaluación de VISA Platform Connect- Manejó grandes volúmenes de datos para toma de decisiones ejecutivasEsta experiencia es directamente relevante para La Cuentería porque:1. MENTALIDAD DATA-DRIVEN: Capacidad para establecer métricas relevantes, analizar comportamiento de usuarios, y tomar decisiones basadas en datos, no intuición2. MODELAMIENTO DE NEGOCIO: Experiencia diseñando revenue models, calculando unit economics, y proyectando escenarios financieros—crítico para lograr sostenibilidad económica3. EVALUACIÓN DE OPORTUNIDADES: Track record analizando nuevas iniciativas de negocio en contexto de mercado real, evaluando viabilidad y riesgos4. EJECUCIÓN EN AMBIENTES COMPLEJOS: Experiencia navegando organizaciones grandes, gestionando stakeholders, y llevando proyectos a resultados concretos5. EMPRENDIMIENTOS PREVIOS: Ha desarrollado múltiples proyectos tech (incluyendo plataformas web, integraciones con IA), demostrando capacidad de ejecución técnica y visión de productoAdemás, como padre o futuro padre, entiende el problema en primera persona, lo que aporta autenticidad y motivación genuina para resolver las necesidades reales de las familias.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Por qué el Team Leader es la persona adecuada para hacer la startup exitosa? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Felipe es la persona indicada para liderar La Cuentería por tres razones fundamentales:1. COMBINA VISIÓN ESTRATÉGICA CON EJECUCIÓN PRÁCTICA:No es solo un visionario con una idea—tiene el rigor analítico y la experiencia en modelamiento de negocios para convertir la visión en un plan ejecutable con métricas claras. Ha demostrado capacidad para llevar proyectos desde concepto hasta implementación en ambientes profesionales exigentes.2. ENTIENDE EL PROBLEMA DESDE ADENTRO:No está intentando resolver un problema abstracto del mercado. Como miembro de la generación millennial que busca criar de forma consciente, vive el problema que La Cuentería resuelve. Esta conexión personal asegura autenticidad en el producto y empatía genuina con los usuarios—un activo invaluable en productos de impacto social.3. MENTALIDAD DE CRECIMIENTO Y APRENDIZAJE CONTINUO:Ha demostrado capacidad para aprender y dominar nuevas tecnologías (IA, desarrollo web, integraciones complejas) de forma autodidacta. En el mundo startup donde hay que adaptarse rápido y resolver problemas constantemente, esta capacidad de aprendizaje es más valiosa que cualquier expertise específico.Además, su experiencia en análisis de negocios le da la habilidad crítica para:- Identificar qué métricas realmente importan- Pivotear basado en datos cuando algo no funciona- Comunicar valor a diferentes stakeholders (usuarios, inversores, partners)- Mantener disciplina financiera y priorizar recursos limitadosNo es el perfil de un CEO tradicional de startup tech—y eso es una fortaleza. Trae pragmatismo, rigor y conexión personal en lugar de solo visión abstracta.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Equipo",
+    "is_orange": false,
+    "style": "Heading 2"
+  },
+  {
+    "text": "¿Cuántos empleados tiene tu startup, excluyendo fundadores? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Número promedio de empleados full-time y part-time en los últimos 12 meses. (No incluir servicios outsourced.)",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "0 - Actualmente el equipo consiste únicamente de los fundadores. No hemos realizado contrataciones formales aún.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Cómo fortalecen tu startup los miembros clave (excluyendo fundadores) de tu equipo? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Describe las habilidades complementarias de tus empleados, advisors o colaboradores. ¿Qué experiencia y fortalezas adicionales hacen al equipo bien equipado para lograr éxito?",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Aunque actualmente no tenemos empleados formales, contamos con una red de colaboradores y advisors informales que aportan expertise crítico:COLABORADORES TÉCNICOS:- Desarrolladores especializados en IA y computer vision con quienes hemos trabajado puntualmente para resolver desafíos técnicos específicos- Diseñadores UX/UI que han aportado feedback sobre la experiencia de usuarioADVISORS POTENCIALES (en conversaciones):- Psicólogos infantiles especializados en educación emocional que pueden validar contenido pedagógico- Educadores de párvulos con experiencia en crianza respetuosa- Founders de otras startups EdTech que aportan lecciones aprendidas sobre go-to-marketPlan de contratación con fondos de Start-Up Chile:1. Primer hire: Desarrollador full-stack con experiencia en IA/ML (Q1-Q2 2025)2. Segundo hire: Community manager / content creator especializado en crianza (Q2-Q3 2025)Esta estructura nos permite mantener el equipo lean en fase temprana mientras accedemos a expertise especializado cuando lo necesitamos, optimizando uso de recursos limitados.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Tienes mentores, miembros de junta asesora o consultores? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "En proceso de formalización - Estamos en conversaciones con potenciales mentores y advisors del ecosistema startup chileno y de educación. Uno de los objetivos clave de Start-Up Chile es precisamente construir este advisory board con guidance del programa.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "¿Deseas agregar una carta de recomendación? *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "(Obligatorio para el programa Growth) Si eliges agregar una carta de recomendación, debe ser de alguien no involucrado en tu startup. Recomendamos seleccionar un experto relevante de la industria, cliente o mentor sin participación en la compañía.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "[A determinar según programa al que se aplique]",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Declaraciones",
+    "is_orange": false,
+    "style": "Heading 1"
+  },
+  {
+    "text": "Declaración I *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Toda la información proporcionada en esta aplicación es verdadera, completa y precisa según mi mejor conocimiento.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Declaración II *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Solo se ha presentado una aplicación en esta ronda de Start-Up Chile.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Declaración III *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Los resultados de esta aplicación se enviarán por correo electrónico a la dirección indicada en la sección \"Application Quest\", de acuerdo con la Ley N° 19.880, Artículo 30 (a) y Artículo 19 (primer ítem).",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Declaración IV *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "He leído y comprendido todos los requisitos de admisibilidad y participación en el/los programa(s).",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Declaración V *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "El Team Leader designado no puede ser cambiado una vez que se haya enviado el formulario de aplicación.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Declaración VI *",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La información de la aplicación puede ser compartida con evaluadores externos durante el proceso de selección.",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "---",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "Formulario Completado",
+    "is_orange": false,
+    "style": "normal"
+  },
+  {
+    "text": "La Cuentería - Start-Up Chile 2026",
+    "is_orange": false,
+    "style": "normal"
+  }
+]
